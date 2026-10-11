@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>player</title><!-- yt.html v20.9.6 ytdash: wrap/frameLoad pings so the dash can tell "player page loaded" from "YouTube silent"; listening handshake starts at once -->
+<!-- yt.html 2.1 (row 37/38, 2026-10-03): &hold=1 = load muted + volume 0 and stay silent until the dash sends xcReveal (first real frame), then unMute + a stepped 15-step setVolume fade 0 -> target over ~3.5 s and an isMuted check (infoDelivery muted). Without hold=1 it behaves exactly like 20.9.6b. -->
+<link rel="preconnect" href="https://www.youtube.com"><link rel="preconnect" href="https://i.ytimg.com"><link rel="preconnect" href="https://www.google.com"><link rel="dns-prefetch" href="https://redirector.googlevideo.com">
+<style>html,body{margin:0;height:100%;background:#000;overflow:hidden}iframe{position:absolute;inset:0;width:100%;height:100%;border:0}</style></head>
+<body><iframe id="p" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<script>
+(function(){
+  var q=new URLSearchParams(location.search), id=(q.get('v')||'').replace(/[^A-Za-z0-9_-]/g,''), st=parseInt(q.get('t')||'0',10)||0;
+  var f=document.getElementById('p');
+  function up(o){ try{ parent.postMessage(Object.assign({xcyt:1},o),'*'); }catch(e){} }
+  var lastCc=0, lastSt=-9, ccTs=[];
+  /* v20.9.6: remember the dash's volume (Liora duck / test mute) so onReady never jumps the video to 100 over her; ?mute=1 starts muted */
+  var pv=(q.get('mute')==='1')?0:null, wm=(pv===0);
+  /* 2.1 hold: candidate/held player stays muted at volume 0 until xcReveal; fade = 15 setVolume steps */
+  var held=(q.get('hold')==='1'), fadeT=null, fadeLog=[], fadeTarget=100, revealAt=0;
+  function quiet(){ return pv===0||held; }
+  function ccLadder(){ ccTs.forEach(clearTimeout); ccTs=[1000,2500,4500,7000,10000,15000,22000].map(function(ms){ return setTimeout(function(){ ccOff(false); lastCc=0; },ms); }); }
+  function cmd(fn,a){ try{ f.contentWindow.postMessage(JSON.stringify({event:'command',func:fn,args:a||[]}),'*'); }catch(e){} }
+  /* v20.9.6b sound: re-assert unMute/setVolume on ready AND on the first PLAYING (autoplay can start the player muted); while the first 8 s of play still report muted, retry; then tell the dash (needTap) */
+  var ytMuted=null, ytVol=null, playAt=0, unTries=0;
+  function snd(){ if(quiet()){ cmd('mute'); if(held) cmd('setVolume',[0]); wm=true; } else if(fadeT){ cmd('unMute'); } else { cmd('unMute'); cmd('setVolume',[pv!=null?pv:100]); } }
+  function fade(target){ /* stepped ramp 0 -> target (follows a duck: never above the dash's current pv) */
+    if(fadeT) clearInterval(fadeT); held=false; wm=false; revealAt=Date.now(); fadeTarget=(typeof target==='number')?target:(pv!=null?pv:100); if(pv==null) pv=fadeTarget;
+    var k=0, N=15; fadeLog=[]; cmd('setVolume',[0]); cmd('unMute'); fadeLog.push([0,0]);
+    fadeT=setInterval(function(){ k++; var v=Math.round(Math.min(pv!=null?pv:100, fadeTarget)*k/N); cmd('setVolume',[v]); if(k%5===0) cmd('unMute'); fadeLog.push([Date.now()-revealAt,v]);
+      if(k>=N){ clearInterval(fadeT); fadeT=null; setTimeout(function(){ if(ytMuted===true){ cmd('unMute'); cmd('setVolume',[pv!=null?pv:100]); } up({event:'faded',muted:ytMuted,vol:ytVol,log:fadeLog,ms:Date.now()-revealAt}); },700); } },230); }
+  function ccOff(force){ var n=Date.now(); if(!force&&n-lastCc<1500) return; lastCc=n; cmd('unloadModule',['captions']); cmd('unloadModule',['cc']); cmd('setOption',['captions','track',{}]); if(force){ snd(); } }
+  up({event:'wrap',v:held?'2.1-hold':'20.9.6'});
+  if(!id){ up({event:'onError',info:'noid'}); return; }
+  var heard=false, hs=0, hsT=setInterval(function(){ if(heard||++hs>60){ clearInterval(hsT); return; } try{ f.contentWindow.postMessage(JSON.stringify({event:'listening',id:1,channel:'widget'}),'*'); }catch(e){} },500);
+  f.src='https://www.youtube.com/embed/'+id+'?autoplay=1&playsinline=1&rel=0&modestbranding=1&fs=1&enablejsapi=1&cc_load_policy=0&iv_load_policy=3&origin='+encodeURIComponent(location.origin)+(st?'&start='+st:'')+((pv===0||held)?'&mute=1':'');
+  f.addEventListener('load',function(){ up({event:'frameLoad'}); var n=0, iv=setInterval(function(){ try{ f.contentWindow.postMessage(JSON.stringify({event:'listening',id:1,channel:'widget'}),'*'); }catch(e){} if(++n>10) clearInterval(iv); },500); });
+  window.addEventListener('message',function(ev){
+    if(ev.source===parent){ var c=ev.data; if(c&&c.xccmd==='xcReveal'){ fade(c.args&&c.args[0]); return; }
+      if(c&&c.xccmd==='setVolume'&&c.args&&typeof c.args[0]==='number'){ pv=c.args[0]; if(held||fadeT) return; /* held: stays silent; fading: the ramp follows pv */ if(pv>0&&wm){ wm=false; cmd('unMute'); } }
+      if(c&&held&&(c.xccmd==='unMute'||c.xccmd==='setVolume')) return;
+      if(c&&c.xccmd){ try{ f.contentWindow.postMessage(JSON.stringify({event:'command',func:c.xccmd,args:c.args||[]}),'*'); }catch(e){} } return; }
+    if(!/youtube\.com$/.test(String(ev.origin).replace(/^https?:\/\/(www\.)?/,''))) return;
+    var d=ev.data; try{ if(typeof d==='string') d=JSON.parse(d); }catch(e){ return; }
+    if(!d||!d.event) return;
+    heard=true;
+    if(d.event==='onReady'||d.event==='initialDelivery'||d.event==='onStateChange'||(d.event==='infoDelivery'&&d.info&&d.info.playerState!=null)) ccOff(d.event==='onReady');
+    /* v20.9.6: the captions module loads a few seconds AFTER playback starts, so one early unload missed it (forced/auto captions stayed on). Re-unload on a short ladder after ready and after each start of playback. */
+    var st1=(d.event==='onStateChange'&&d.info===1)||(d.event==='infoDelivery'&&d.info&&d.info.playerState===1);
+    if(d.event==='onReady'||(st1&&lastSt!==1)){ ccLadder(); }
+    if(st1&&lastSt!==1){ snd(); if(!playAt) playAt=Date.now(); }
+    if(d.info&&typeof d.info==='object'){ if(typeof d.info.muted==='boolean') ytMuted=d.info.muted; if(typeof d.info.volume==='number') ytVol=d.info.volume; }
+    var pa=held?0:(revealAt||playAt);
+    if(!fadeT&&ytMuted===true&&!quiet()&&pa&&Date.now()-pa<8000&&unTries<4){ unTries++; setTimeout(snd,300*unTries); }
+    if(!fadeT&&ytMuted===true&&!quiet()&&pa&&Date.now()-pa>=8000&&unTries<99){ unTries=99; up({event:'needTap'}); }
+    if(d.event==='onStateChange'&&typeof d.info==='number') lastSt=d.info; else if(d.info&&typeof d.info==='object'&&d.info.playerState!=null) lastSt=d.info.playerState;
+    var o={event:d.event};
+    if(d.event==='onError') o.info=d.info;
+    if(ytMuted!=null) o.muted=ytMuted; if(ytVol!=null) o.vol=ytVol;
+    if(d.event==='onStateChange'&&typeof d.info==='number') o.state=d.info;
+    if(d.info&&typeof d.info==='object'){ if(typeof d.info.currentTime==='number') o.t=d.info.currentTime; if(d.info.playerState!=null) o.state=d.info.playerState; }
+    up(o);
+  });
+})();
+</script></body></html>
