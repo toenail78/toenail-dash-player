@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T21:51:20.478675+00:00",
+ "updated": "2026-10-12T22:44:43.501375+00:00",
  "day_ct": "2026-10-12",
  "items": [
   {
@@ -8,7 +8,7 @@
    "tier": "today",
    "label": "UPCOMING TODAY",
    "title": "Falcon 9 Block 5 | Starlink Group 15-25",
-   "ts": "2026-10-13T00:11:44+00:00",
+   "ts": "2026-10-13T00:28:11+00:00",
    "ts_kind": "net",
    "src": "Launch Library 2",
    "url": "https://www.youtube.com/watch?v=tnX-_tmsNgU",
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "tnX-_tmsNgU"
    },
-   "expires": "2026-10-13T00:51:20.478675+00:00"
+   "expires": "2026-10-13T01:44:43.501375+00:00"
   }
  ],
  "sources": {
