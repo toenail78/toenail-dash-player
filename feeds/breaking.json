@@ -1,0 +1,41 @@
+{
+ "updated": "2026-10-12T18:06:53.253319+00:00",
+ "day_ct": "2026-10-12",
+ "items": [
+  {
+   "id": "ll2:97c6f5e1-299e-4652-b72d-9618ac047076",
+   "co": "SpaceX",
+   "tier": "today",
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Starlink Group 15-25",
+   "ts": "2026-10-13T00:11:44+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=tnX-_tmsNgU",
+   "video": {
+    "kind": "youtube",
+    "id": "tnX-_tmsNgU"
+   },
+   "expires": "2026-10-12T21:06:53.253319+00:00"
+  }
+ ],
+ "sources": {
+  "yt_rss:SpaceX": "ok",
+  "yt_live:SpaceX": "ok",
+  "yt_rss:Tesla": "ok",
+  "yt_live:Tesla": "ok",
+  "yt_rss:Neuralink": "ok",
+  "yt_live:Neuralink": "ok",
+  "ll2": "ok",
+  "xai_news": "ok",
+  "gnews:Tesla": "ok",
+  "gnews:SpaceX": "ok",
+  "gnews:Starlink": "ok",
+  "gnews:xAI": "ok",
+  "gnews:X": "ok",
+  "gnews:Neuralink": "ok",
+  "gnews:Boring Co": "ok",
+  "x_api": "unavailable:",
+  "pinned": "ok"
+ }
+}
