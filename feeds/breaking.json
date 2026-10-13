@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-13T06:04:16.395828+00:00",
+ "updated": "2026-10-13T07:59:07.849422+00:00",
  "day_ct": "2026-10-13",
  "items": [
-  {
-   "id": "gn:CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Tesla Cybercab and Robotaxi\u2019s real advantage won\u2019t be the ride service",
-   "ts": "2026-10-13T05:33:34+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v?oc=5",
-   "video": null,
-   "expires": "2026-10-13T09:04:16.395828+00:00"
-  },
   {
    "id": "ll2:bf2c3027-a314-403e-a416-2bfd5d165ad1",
    "co": "SpaceX",
@@ -28,15 +16,27 @@
     "kind": "youtube",
     "id": "f8FE2R7esZ0"
    },
-   "expires": "2026-10-13T09:04:16.395828+00:00"
+   "expires": "2026-10-13T10:59:07.849422+00:00"
+  },
+  {
+   "id": "gn:CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Tesla Cybercab and Robotaxi\u2019s real advantage won\u2019t be the ride service",
+   "ts": "2026-10-13T05:33:34+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v?oc=5",
+   "video": null,
+   "expires": "2026-10-13T10:59:07.849422+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
