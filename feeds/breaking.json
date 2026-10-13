@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-13T01:39:37.808760+00:00",
+ "updated": "2026-10-13T01:49:43.435807+00:00",
  "day_ct": "2026-10-12",
  "items": [
   {
    "id": "ll2:97c6f5e1-299e-4652-b72d-9618ac047076",
    "co": "SpaceX",
-   "tier": "live",
-   "label": null,
+   "tier": "just",
+   "label": "SUCCESS",
    "title": "Falcon 9 Block 5 | Starlink Group 15-25",
    "ts": "2026-10-13T00:28:11+00:00",
    "ts_kind": "net",
@@ -16,15 +16,15 @@
     "kind": "youtube",
     "id": "uwtmu8n99Pc"
    },
-   "expires": "2026-10-13T02:09:37.808760+00:00"
+   "expires": "2026-10-13T04:49:43.435807+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
