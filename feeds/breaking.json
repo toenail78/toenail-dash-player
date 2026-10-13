@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-13T09:02:23.245642+00:00",
+ "updated": "2026-10-13T10:58:35.751194+00:00",
  "day_ct": "2026-10-13",
  "items": [
   {
    "id": "ll2:bf2c3027-a314-403e-a416-2bfd5d165ad1",
    "co": "SpaceX",
-   "tier": "today",
-   "label": "UPCOMING TODAY",
+   "tier": "live",
+   "label": null,
    "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
    "ts": "2026-10-13T10:33:44+00:00",
    "ts_kind": "net",
@@ -16,19 +16,31 @@
     "kind": "youtube",
     "id": "f8FE2R7esZ0"
    },
-   "expires": "2026-10-13T12:02:23.245642+00:00"
+   "expires": "2026-10-13T11:28:35.751194+00:00"
   },
   {
-   "id": "gn:CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v",
+   "id": "gn:CBMiggFBVV95cUxPVUt1aXI4MXp5emRHZUpuSEF0bF9ubzRMdzQ2QkhTdlBZUWxYVm41UXQtUThLdmloYWFid1AxZmFtYkdsNU12NUpzZ19qZGdMbnNrVlBmRG5LUXZUb3VmNENSR0VQUGdMX2g5NUk0UkJwTjd5SkRjNjdWcDhDNDhpZG9R",
+   "co": "xAI",
+   "tier": "today",
+   "title": "X Bundles Premium, Grok And Cursor Under A Single Monthly Subscription",
+   "ts": "2026-10-13T08:44:18+00:00",
+   "ts_kind": "published",
+   "src": "Engadget via Google News",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUt1aXI4MXp5emRHZUpuSEF0bF9ubzRMdzQ2QkhTdlBZUWxYVm41UXQtUThLdmloYWFid1AxZmFtYkdsNU12NUpzZ19qZGdMbnNrVlBmRG5LUXZUb3VmNENSR0VQUGdMX2g5NUk0UkJwTjd5SkRjNjdWcDhDNDhpZG9R?oc=5",
+   "video": null,
+   "expires": "2026-10-13T13:58:35.751194+00:00"
+  },
+  {
+   "id": "gn:CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC1DNXlKWUNv",
    "co": "Tesla",
    "tier": "today",
-   "title": "Tesla Cybercab and Robotaxi\u2019s real advantage won\u2019t be the ride service",
-   "ts": "2026-10-13T05:33:34+00:00",
+   "title": "Why Elon Musk\u2019s target date for buying an Optimus robot is harder than it sounds",
+   "ts": "2026-10-13T08:10:29+00:00",
    "ts_kind": "published",
    "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC1DNXlKWUNv?oc=5",
    "video": null,
-   "expires": "2026-10-13T12:02:23.245642+00:00"
+   "expires": "2026-10-13T13:58:35.751194+00:00"
   }
  ],
  "sources": {
