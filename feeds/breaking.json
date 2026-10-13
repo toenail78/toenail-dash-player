@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-13T12:06:55.121935+00:00",
+ "updated": "2026-10-13T12:17:17.701259+00:00",
  "day_ct": "2026-10-13",
  "items": [
-  {
-   "id": "gn:CBMitAFBVV95cUxQMV9MVERLRzloR01QNUxnQ1FpNUZ4V3pFSGJ3WHY3VWM3RER4b0plVHJXdDlYMndWeW1QWUxFSmZrZzZvdDNrYlpIdlRnWVBJLTIyNVR4UFZnSmt3cnMxUU9SaVVhR0xPRGFKN0U2THJfRW5kckhRWWJRanBCQmgtZVJwRGVYYVl3bDB0R3U1cmZ5bzB6NFVfUFR0aUlnOGhkTi1VRkFJeEpSMjlVT2RZTGVvUWM",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Tesla still leads US fast-charger growth \u2013 but it\u2019s raised its prices",
-   "ts": "2026-10-13T12:00:00+00:00",
-   "ts_kind": "published",
-   "src": "Electrek via Google News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9MVERLRzloR01QNUxnQ1FpNUZ4V3pFSGJ3WHY3VWM3RER4b0plVHJXdDlYMndWeW1QWUxFSmZrZzZvdDNrYlpIdlRnWVBJLTIyNVR4UFZnSmt3cnMxUU9SaVVhR0xPRGFKN0U2THJfRW5kckhRWWJRanBCQmgtZVJwRGVYYVl3bDB0R3U1cmZ5bzB6NFVfUFR0aUlnOGhkTi1VRkFJeEpSMjlVT2RZTGVvUWM?oc=5",
-   "video": null,
-   "expires": "2026-10-13T15:06:55.121935+00:00"
-  },
   {
    "id": "ll2:bf2c3027-a314-403e-a416-2bfd5d165ad1",
    "co": "SpaceX",
@@ -28,7 +16,7 @@
     "kind": "youtube",
     "id": "f8FE2R7esZ0"
    },
-   "expires": "2026-10-13T15:06:55.121935+00:00"
+   "expires": "2026-10-13T15:17:17.701259+00:00"
   },
   {
    "id": "gn:CBMiggFBVV95cUxPVUt1aXI4MXp5emRHZUpuSEF0bF9ubzRMdzQ2QkhTdlBZUWxYVm41UXQtUThLdmloYWFid1AxZmFtYkdsNU12NUpzZ19qZGdMbnNrVlBmRG5LUXZUb3VmNENSR0VQUGdMX2g5NUk0UkJwTjd5SkRjNjdWcDhDNDhpZG9R",
@@ -40,7 +28,19 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVUt1aXI4MXp5emRHZUpuSEF0bF9ubzRMdzQ2QkhTdlBZUWxYVm41UXQtUThLdmloYWFid1AxZmFtYkdsNU12NUpzZ19qZGdMbnNrVlBmRG5LUXZUb3VmNENSR0VQUGdMX2g5NUk0UkJwTjd5SkRjNjdWcDhDNDhpZG9R?oc=5",
    "video": null,
-   "expires": "2026-10-13T15:06:55.121935+00:00"
+   "expires": "2026-10-13T15:17:17.701259+00:00"
+  },
+  {
+   "id": "gn:CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC1DNXlKWUNv",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Why Elon Musk\u2019s target date for buying an Optimus robot is harder than it sounds",
+   "ts": "2026-10-13T08:10:29+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC1DNXlKWUNv?oc=5",
+   "video": null,
+   "expires": "2026-10-13T15:17:17.701259+00:00"
   }
  ],
  "sources": {
