@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:17:14.366002+00:00",
+ "updated": "2026-10-13T00:22:32.705149+00:00",
  "day_ct": "2026-10-12",
  "items": [
   {
@@ -16,11 +16,11 @@
     "kind": "youtube",
     "id": "tnX-_tmsNgU"
    },
-   "expires": "2026-10-13T00:47:14.366002+00:00"
+   "expires": "2026-10-13T00:52:32.705149+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
