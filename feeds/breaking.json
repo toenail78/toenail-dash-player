@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T00:53:21.302673+00:00",
+ "updated": "2026-10-13T01:03:26.735751+00:00",
  "day_ct": "2026-10-12",
  "items": [
   {
@@ -11,12 +11,12 @@
    "ts": "2026-10-13T00:28:11+00:00",
    "ts_kind": "net",
    "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=tnX-_tmsNgU",
+   "url": "https://www.youtube.com/watch?v=uwtmu8n99Pc",
    "video": {
     "kind": "youtube",
-    "id": "tnX-_tmsNgU"
+    "id": "uwtmu8n99Pc"
    },
-   "expires": "2026-10-13T01:23:21.302673+00:00"
+   "expires": "2026-10-13T01:33:26.735751+00:00"
   }
  ],
  "sources": {
