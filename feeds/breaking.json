@@ -1,22 +1,34 @@
 {
- "updated": "2026-10-13T04:35:29.579125+00:00",
- "day_ct": "2026-10-12",
+ "updated": "2026-10-13T06:04:16.395828+00:00",
+ "day_ct": "2026-10-13",
  "items": [
   {
-   "id": "ll2:97c6f5e1-299e-4652-b72d-9618ac047076",
+   "id": "gn:CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Tesla Cybercab and Robotaxi\u2019s real advantage won\u2019t be the ride service",
+   "ts": "2026-10-13T05:33:34+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1samE2NkJCakN3aW5aak5kMFR2bTlDVGJTN2pyZDBIRjhYUjMzWVpxT01VYU92RTZRLVB3b0Z2c1lMZFdlRTdDQmxRQmVBeUg0OHRrN3NsaldkTThMTGRkbDlKTmVtZlhkQ05v?oc=5",
+   "video": null,
+   "expires": "2026-10-13T09:04:16.395828+00:00"
+  },
+  {
+   "id": "ll2:bf2c3027-a314-403e-a416-2bfd5d165ad1",
    "co": "SpaceX",
    "tier": "today",
-   "label": "SUCCESS",
-   "title": "Falcon 9 Block 5 | Starlink Group 15-25",
-   "ts": "2026-10-13T00:28:11+00:00",
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
+   "ts": "2026-10-13T10:33:44+00:00",
    "ts_kind": "net",
    "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=uwtmu8n99Pc",
+   "url": "https://www.youtube.com/watch?v=f8FE2R7esZ0",
    "video": {
     "kind": "youtube",
-    "id": "uwtmu8n99Pc"
+    "id": "f8FE2R7esZ0"
    },
-   "expires": "2026-10-13T07:35:29.579125+00:00"
+   "expires": "2026-10-13T09:04:16.395828+00:00"
   }
  ],
  "sources": {
