@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T19:13:05.078820+00:00",
+ "updated": "2026-10-15T19:26:34.707867+00:00",
  "day_ct": "2026-10-15",
  "items": [
   {
@@ -30,7 +30,7 @@
     "kind": "x",
     "url": "https://x.com/i/broadcasts/1aJbdEzYpPaKX"
    },
-   "expires": "2026-10-15T22:13:05.078820+00:00"
+   "expires": "2026-10-15T22:26:34.707867+00:00"
   },
   {
    "id": "gn:CBMiogFBVV95cUxNdTFEM0VYMWxiWEQxYVc4LUJuaVdDSUdvSlRCc3ZlQko0NXBrTE11SWUtTDY4T2h1azdMSU5zZkxGeVhPWWtSWXE2VC1mOEJGYTN6Ql80UG9hYm5nNjdlM3hQMmdTWlFzeFc0OGZIY1pWaFpBTzBZZGljeUZhTUJsNjdyaU00NGtnUTRkb1YwRWlzdGdnWTN1SXZ5UnBPZWRzM2c",
@@ -42,7 +42,7 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTFEM0VYMWxiWEQxYVc4LUJuaVdDSUdvSlRCc3ZlQko0NXBrTE11SWUtTDY4T2h1azdMSU5zZkxGeVhPWWtSWXE2VC1mOEJGYTN6Ql80UG9hYm5nNjdlM3hQMmdTWlFzeFc0OGZIY1pWaFpBTzBZZGljeUZhTUJsNjdyaU00NGtnUTRkb1YwRWlzdGdnWTN1SXZ5UnBPZWRzM2c?oc=5",
    "video": null,
-   "expires": "2026-10-15T22:13:05.078820+00:00"
+   "expires": "2026-10-15T22:26:34.707867+00:00"
   }
  ],
  "sources": {
