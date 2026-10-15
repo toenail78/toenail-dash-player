@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:25:51.713212+00:00",
+ "updated": "2026-10-15T23:36:25.942252+00:00",
  "day_ct": "2026-10-15",
  "items": [
   {
@@ -19,8 +19,8 @@
   {
    "id": "ll2:df88cfbf-f504-4e11-8370-e33dd6280b5b",
    "co": "SpaceX",
-   "tier": "today",
-   "label": "UPCOMING TODAY",
+   "tier": "live",
+   "label": null,
    "title": "Falcon 9 Block 5 | USSF-481",
    "ts": "2026-10-16T00:01:05+00:00",
    "ts_kind": "net",
@@ -30,7 +30,7 @@
     "kind": "youtube",
     "id": "CYXidmyZlG4"
    },
-   "expires": "2026-10-16T02:25:51.713212+00:00"
+   "expires": "2026-10-16T00:06:25.942252+00:00"
   }
  ],
  "sources": {
