@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T12:11:05.904894+00:00",
+ "updated": "2026-10-15T12:21:17.227001+00:00",
  "day_ct": "2026-10-15",
  "items": [
   {
@@ -17,18 +17,6 @@
    "label": "TODAY"
   },
   {
-   "id": "gn:CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Tesla set to unveil next generation Roadster sports EV after years of delay",
-   "ts": "2026-10-15T10:19:34+00:00",
-   "ts_kind": "published",
-   "src": "Reuters via Google News",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv?oc=5",
-   "video": null,
-   "expires": "2026-10-15T15:11:05.904894+00:00"
-  },
-  {
    "id": "ll2:df88cfbf-f504-4e11-8370-e33dd6280b5b",
    "co": "SpaceX",
    "tier": "today",
@@ -42,7 +30,19 @@
     "kind": "x",
     "url": "https://x.com/i/broadcasts/1aJbdEzYpPaKX"
    },
-   "expires": "2026-10-15T15:11:05.904894+00:00"
+   "expires": "2026-10-15T15:21:17.227001+00:00"
+  },
+  {
+   "id": "gn:CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Tesla set to unveil next generation Roadster sports EV after years of delay",
+   "ts": "2026-10-15T10:19:34+00:00",
+   "ts_kind": "published",
+   "src": "Reuters via Google News",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv?oc=5",
+   "video": null,
+   "expires": "2026-10-15T15:21:17.227001+00:00"
   },
   {
    "id": "gn:CBMihwFBVV95cUxQMU9XdEk3RVdyNUhrSi13eEY2bUNQVUR2MVVOaXpTSFQ5Z1VqUVhZQl9LaVRRcDBqVmNZb1N5UDJvTnYtY0pmdVBuZnc4NjdEWkE3Tm5fOTJlY0J6TExyWHRPRnRNTk9yMlhUUWxDXzRqTWZOQnY3cHdHemdLWjA1c1QzUXpoNTA",
@@ -54,7 +54,7 @@
    "src": "CNBC via Google News",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMU9XdEk3RVdyNUhrSi13eEY2bUNQVUR2MVVOaXpTSFQ5Z1VqUVhZQl9LaVRRcDBqVmNZb1N5UDJvTnYtY0pmdVBuZnc4NjdEWkE3Tm5fOTJlY0J6TExyWHRPRnRNTk9yMlhUUWxDXzRqTWZOQnY3cHdHemdLWjA1c1QzUXpoNTA?oc=5",
    "video": null,
-   "expires": "2026-10-15T15:11:05.904894+00:00"
+   "expires": "2026-10-15T15:21:17.227001+00:00"
   }
  ],
  "sources": {
