@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T18:44:25.354011+00:00",
+ "updated": "2026-10-16T18:49:52.653229+00:00",
  "day_ct": "2026-10-16",
  "items": [
   {
@@ -14,7 +14,7 @@
     "kind": "youtube",
     "id": "Zg9Q56t7bdo"
    },
-   "expires": "2026-10-16T21:44:25.354011+00:00"
+   "expires": "2026-10-16T21:49:52.653229+00:00"
   }
  ],
  "sources": {
@@ -31,7 +31,7 @@
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
-  "gnews:Neuralink": "ok",
+  "gnews:Neuralink": "fail",
   "gnews:Boring Co": "ok",
   "x_api": "unavailable:",
   "pinned": "ok"
