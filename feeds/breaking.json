@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:41:51.743439+00:00",
+ "updated": "2026-10-16T01:01:02.520091+00:00",
  "day_ct": "2026-10-15",
  "items": [
   {
@@ -13,8 +13,8 @@
    "url": "https://livestream.tesla.com/",
    "expires": "2026-10-16T04:00:00+00:00",
    "pinned": true,
-   "tier": "today",
-   "label": "TODAY"
+   "tier": "just",
+   "label": "JUST HAPPENED"
   },
   {
    "id": "ll2:df88cfbf-f504-4e11-8370-e33dd6280b5b",
@@ -30,17 +30,17 @@
     "kind": "youtube",
     "id": "0rd-mypixIg"
    },
-   "expires": "2026-10-16T01:11:51.743439+00:00"
+   "expires": "2026-10-16T01:31:02.520091+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
