@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-16T08:51:22.679620+00:00",
+ "updated": "2026-10-16T09:23:17.419414+00:00",
  "day_ct": "2026-10-16",
  "items": [
-  {
-   "id": "gn:CBMickFVX3lxTFB0SXczdzgzVFl1cmliSWxaMThGN2xlYktpcURRLXlJS3VUZ19wd3RET2tLOHFsZkoyS2xaUmZsMlZYWHhQdExFeW5BckxhZGVjbVBoM2JXSEN1dGVTbDd4eVpGTENKT2ptQXh4MlluS1ExQQ",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Is The New Tesla Roadster Actually A Roadster? The Jury Is Still Out",
-   "ts": "2026-10-16T07:16:00+00:00",
-   "ts_kind": "published",
-   "src": "InsideEVs via Google News",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0SXczdzgzVFl1cmliSWxaMThGN2xlYktpcURRLXlJS3VUZ19wd3RET2tLOHFsZkoyS2xaUmZsMlZYWHhQdExFeW5BckxhZGVjbVBoM2JXSEN1dGVTbDd4eVpGTENKT2ptQXh4MlluS1ExQQ?oc=5",
-   "video": null,
-   "expires": "2026-10-16T11:51:22.679620+00:00"
-  },
   {
    "id": "yt:Zg9Q56t7bdo",
    "co": "Tesla",
@@ -26,7 +14,7 @@
     "kind": "youtube",
     "id": "Zg9Q56t7bdo"
    },
-   "expires": "2026-10-16T11:51:22.679620+00:00"
+   "expires": "2026-10-16T12:23:17.419414+00:00"
   }
  ],
  "sources": {
