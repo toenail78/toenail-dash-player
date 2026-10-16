@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T00:31:17.752206+00:00",
+ "updated": "2026-10-16T00:41:51.743439+00:00",
  "day_ct": "2026-10-15",
  "items": [
   {
@@ -25,16 +25,16 @@
    "ts": "2026-10-16T00:01:05+00:00",
    "ts_kind": "net",
    "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=CYXidmyZlG4",
+   "url": "https://www.youtube.com/watch?v=0rd-mypixIg",
    "video": {
     "kind": "youtube",
-    "id": "CYXidmyZlG4"
+    "id": "0rd-mypixIg"
    },
-   "expires": "2026-10-16T01:01:17.752206+00:00"
+   "expires": "2026-10-16T01:11:51.743439+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
