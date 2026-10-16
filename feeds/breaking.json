@@ -1,21 +1,7 @@
 {
- "updated": "2026-10-16T03:47:24.835681+00:00",
+ "updated": "2026-10-16T04:13:49.558340+00:00",
  "day_ct": "2026-10-15",
  "items": [
-  {
-   "id": "tesla-roadster-1015",
-   "co": "Tesla",
-   "level": "urgent",
-   "title": "Roadster unveil TONIGHT 7:55 PM CT \u2014 livestream.tesla.com / @Tesla on X",
-   "ts": "2026-10-16T00:55:00+00:00",
-   "ts_kind": "event",
-   "src": "@Tesla on X",
-   "url": "https://livestream.tesla.com/",
-   "expires": "2026-10-16T04:00:00+00:00",
-   "pinned": true,
-   "tier": "today",
-   "label": "TODAY"
-  },
   {
    "id": "ll2:df88cfbf-f504-4e11-8370-e33dd6280b5b",
    "co": "SpaceX",
@@ -30,7 +16,7 @@
     "kind": "youtube",
     "id": "0rd-mypixIg"
    },
-   "expires": "2026-10-16T04:17:24.835681+00:00"
+   "expires": "2026-10-16T04:43:49.558340+00:00"
   }
  ],
  "sources": {
@@ -43,7 +29,7 @@
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
-  "gnews:SpaceX": "fail",
+  "gnews:SpaceX": "ok",
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
