@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T05:37:07.454993+00:00",
+ "updated": "2026-10-16T05:47:42.386423+00:00",
  "day_ct": "2026-10-16",
  "items": [
   {
@@ -12,13 +12,13 @@
    "src": "Business Insider via Google News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0NxeWhTRWg5OGhhYzBxVDVpcHowNkQwQl9jY21CTlp6QXVTTG11X2I1TFlOX09HTkRDYTZ0QVN5RFcxLXprcFVDQTctU1pKRTNjcnQycGIwNDBKcTJtaUVSdlJQWndlRXB2N29fcWZVWmpPWHBNNThrcjRWTThCUENsME8?oc=5",
    "video": null,
-   "expires": "2026-10-16T08:37:07.454993+00:00"
+   "expires": "2026-10-16T08:47:42.386423+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
