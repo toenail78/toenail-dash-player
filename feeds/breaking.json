@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-16T23:39:44.503320+00:00",
+ "updated": "2026-10-17T00:06:28.400329+00:00",
  "day_ct": "2026-10-16",
  "items": [],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
@@ -11,13 +11,13 @@
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
-  "gnews:Tesla": "ok",
-  "gnews:SpaceX": "ok",
-  "gnews:Starlink": "ok",
-  "gnews:xAI": "ok",
+  "gnews:Tesla": "fail",
+  "gnews:SpaceX": "fail",
+  "gnews:Starlink": "fail",
+  "gnews:xAI": "fail",
   "gnews:X": "ok",
-  "gnews:Neuralink": "fail",
-  "gnews:Boring Co": "ok",
+  "gnews:Neuralink": "ok",
+  "gnews:Boring Co": "fail",
   "x_api": "unavailable:",
   "pinned": "ok"
  }
