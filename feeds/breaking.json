@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T00:22:11.325438+00:00",
+ "updated": "2026-10-17T00:32:49.212706+00:00",
  "day_ct": "2026-10-16",
  "items": [],
  "sources": {
@@ -11,7 +11,7 @@
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
-  "gnews:Tesla": "fail",
+  "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
