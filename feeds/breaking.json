@@ -1,13 +1,28 @@
 {
- "updated": "2026-10-17T02:24:07.554023+00:00",
+ "updated": "2026-10-17T02:41:44.783828+00:00",
  "day_ct": "2026-10-16",
- "items": [],
+ "items": [
+  {
+   "id": "yt:Zg9Q56t7bdo",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "The 0-60 | Roadster",
+   "ts": "2026-10-16T05:51:07+00:00",
+   "src": "YouTube @Tesla",
+   "url": "https://www.youtube.com/watch?v=Zg9Q56t7bdo",
+   "video": {
+    "kind": "youtube",
+    "id": "Zg9Q56t7bdo"
+   },
+   "expires": "2026-10-17T05:41:44.783828+00:00"
+  }
+ ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
