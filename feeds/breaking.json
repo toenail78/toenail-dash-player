@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-18T07:35:25.836728+00:00",
+ "updated": "2026-10-18T07:44:02.826903+00:00",
  "day_ct": "2026-10-18",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMimAFBVV95cUxOTWJtakdwQWVZcldWQVpud295ZGlnSXZjYnFuNmY3TndBR2JmOGNBa1FfQ0o5R1UxQUh2bFEzby01Rk9ZVzlLSUpqTDI1TXd4WkRYX3NfN0NSRnJONi1UUkJsOXZid09KTGlrUGQ0Smw0bUpVaTVnQ2FDV0JBY0ZQejU2eU1iTmM2SkRHcERTV1hqWUItcElCbg",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Elon Musk Says Optimus Is Tesla's Most Important Product. These 3 Suppliers Get Paid Before Tesla Does.",
+   "ts": "2026-10-18T07:25:00+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWJtakdwQWVZcldWQVpud295ZGlnSXZjYnFuNmY3TndBR2JmOGNBa1FfQ0o5R1UxQUh2bFEzby01Rk9ZVzlLSUpqTDI1TXd4WkRYX3NfN0NSRnJONi1UUkJsOXZid09KTGlrUGQ0Smw0bUpVaTVnQ2FDV0JBY0ZQejU2eU1iTmM2SkRHcERTV1hqWUItcElCbg?oc=5",
+   "video": null,
+   "expires": "2026-10-18T10:44:02.826903+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
