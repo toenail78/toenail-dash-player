@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-18T18:05:25.189109+00:00",
+ "updated": "2026-10-18T18:15:54.620725+00:00",
  "day_ct": "2026-10-18",
  "items": [
-  {
-   "id": "gn:CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3",
-   "co": "SpaceX",
-   "tier": "just",
-   "title": "Live coverage: SpaceX to launch Starfall reentry capsule, 31 customer payloads on Bandwagon-5 rideshare mission",
-   "ts": "2026-10-18T16:33:43+00:00",
-   "ts_kind": "published",
-   "src": "Spaceflight Now via Google News",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3?oc=5",
-   "video": null,
-   "expires": "2026-10-18T21:05:25.189109+00:00"
-  },
   {
    "id": "gn:CBMimwFBVV95cUxQRm81SE12OWNLdW9yczlWSW5YTXFGVlVOX2xCdE5faTgxZ3Y4cEpSaWlBeXZaU2s4QVZUaXBWdGRXbGlwaUEtX2JEemhNNlB6OF9xUXZxRDdUOGx0dXJHTFhxS0NMUkJzUy0xNS1EVVlOZEhVUVhEWUg1bTJXSWFHc19Wc0VDSnhISVZNV1dPR1M3LXZNckUyS2N5RQ",
    "co": "Tesla",
@@ -24,7 +12,19 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRm81SE12OWNLdW9yczlWSW5YTXFGVlVOX2xCdE5faTgxZ3Y4cEpSaWlBeXZaU2s4QVZUaXBWdGRXbGlwaUEtX2JEemhNNlB6OF9xUXZxRDdUOGx0dXJHTFhxS0NMUkJzUy0xNS1EVVlOZEhVUVhEWUg1bTJXSWFHc19Wc0VDSnhISVZNV1dPR1M3LXZNckUyS2N5RQ?oc=5",
    "video": null,
-   "expires": "2026-10-18T21:05:25.189109+00:00"
+   "expires": "2026-10-18T21:15:54.620725+00:00"
+  },
+  {
+   "id": "gn:CBMioAFBVV95cUxPb0NCQ0N2UkRrWW5fNlA4RDVMU3BqQlllNlRBLVRUNTQwTVB2YWptdHFRSUQteGY1X1Y0OGl5VVRRQkRkb0xzV1FyYWlCcHBsbDNDUUtXbTVxcGxXTk1YTGpIa09memRQdUJnaExvUmV2NmZad24wOUVfUjNvNVc5OUktU2RjQnZILTlYLTdTQ1pkUkIydXlPX25wLU8wR3dH",
+   "co": "SpaceX",
+   "tier": "today",
+   "title": "Blue Origin Expands Florida Launch Pads To Challenge SpaceX Launch Dominance",
+   "ts": "2026-10-18T13:17:25+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb0NCQ0N2UkRrWW5fNlA4RDVMU3BqQlllNlRBLVRUNTQwTVB2YWptdHFRSUQteGY1X1Y0OGl5VVRRQkRkb0xzV1FyYWlCcHBsbDNDUUtXbTVxcGxXTk1YTGpIa09memRQdUJnaExvUmV2NmZad24wOUVfUjNvNVc5OUktU2RjQnZILTlYLTdTQ1pkUkIydXlPX25wLU8wR3dH?oc=5",
+   "video": null,
+   "expires": "2026-10-18T21:15:54.620725+00:00"
   }
  ],
  "sources": {
