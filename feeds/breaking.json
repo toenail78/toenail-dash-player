@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:27:31.194722+00:00",
+ "updated": "2026-10-18T00:32:35.065609+00:00",
  "day_ct": "2026-10-17",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-10-18T03:27:31.194722+00:00"
+   "expires": "2026-10-18T03:32:35.065609+00:00"
   },
   {
    "id": "gn:CBMilAFBVV95cUxNOEJSYXF0RVlHdnREM1J2SUFYaFB4ZU9kME93M1Myand3YVQ0eVdDcDFTeVZ6LVJPclRwYjc1SjJFRGVxZ01DaTB3aGl5QkRRV25jMzREbUc1YjBCMUgyS2JqcGZvY1preTVPUWJUS3J6YTFGSEZPYTZ5UTE2QUctcDc1ZldqemY3MmlUVGVwQzhkMHd4",
@@ -24,11 +24,11 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOEJSYXF0RVlHdnREM1J2SUFYaFB4ZU9kME93M1Myand3YVQ0eVdDcDFTeVZ6LVJPclRwYjc1SjJFRGVxZ01DaTB3aGl5QkRRV25jMzREbUc1YjBCMUgyS2JqcGZvY1preTVPUWJUS3J6YTFGSEZPYTZ5UTE2QUctcDc1ZldqemY3MmlUVGVwQzhkMHd4?oc=5",
    "video": null,
-   "expires": "2026-10-18T03:27:31.194722+00:00"
+   "expires": "2026-10-18T03:32:35.065609+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
