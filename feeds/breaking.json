@@ -1,24 +1,7 @@
 {
- "updated": "2026-10-19T07:16:25.411581+00:00",
+ "updated": "2026-10-19T09:58:57.988124+00:00",
  "day_ct": "2026-10-19",
- "items": [
-  {
-   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
-   "co": "SpaceX",
-   "tier": "today",
-   "label": "UPCOMING TODAY",
-   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "ts": "2026-10-19T10:30:00+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://x.com/i/broadcasts/1nxeLMddZlEJX",
-   "video": {
-    "kind": "x",
-    "url": "https://x.com/i/broadcasts/1nxeLMddZlEJX"
-   },
-   "expires": "2026-10-19T10:16:25.411581+00:00"
-  }
- ],
+ "items": [],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
