@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-19T11:07:19.784798+00:00",
+ "updated": "2026-10-19T11:37:19.842751+00:00",
  "day_ct": "2026-10-19",
  "items": [
+  {
+   "id": "gn:CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows",
+   "ts": "2026-10-19T11:14:03+00:00",
+   "ts_kind": "published",
+   "src": "Reuters via Google News",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ?oc=5",
+   "video": null,
+   "expires": "2026-10-19T14:37:19.842751+00:00"
+  },
   {
    "id": "gn:CBMimgFBVV95cUxQZUpqQjBPUEJmOWprelY5RHgtYkhQTEc3eFN1SzhmUGFOWEpnRUtxQVJrOUJoMFN5VnFLV0FobExCeGRIQ0FDbVotblIzd0dOX2FIUGZYX1hGazhSWnh0NWRDZDNqUjFZczdFRWZMNDhCSWFrc0RyVmlxaThaM2NUek1NOXRFRDJ6Y1h1dkQxWHBNaUM5MUtGUkFR",
    "co": "Starlink",
@@ -12,7 +24,7 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUpqQjBPUEJmOWprelY5RHgtYkhQTEc3eFN1SzhmUGFOWEpnRUtxQVJrOUJoMFN5VnFLV0FobExCeGRIQ0FDbVotblIzd0dOX2FIUGZYX1hGazhSWnh0NWRDZDNqUjFZczdFRWZMNDhCSWFrc0RyVmlxaThaM2NUek1NOXRFRDJ6Y1h1dkQxWHBNaUM5MUtGUkFR?oc=5",
    "video": null,
-   "expires": "2026-10-19T14:07:19.784798+00:00"
+   "expires": "2026-10-19T14:37:19.842751+00:00"
   },
   {
    "id": "gn:CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3",
@@ -24,7 +36,7 @@
    "src": "Spaceflight Now via Google News",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3?oc=5",
    "video": null,
-   "expires": "2026-10-19T14:07:19.784798+00:00"
+   "expires": "2026-10-19T14:37:19.842751+00:00"
   }
  ],
  "sources": {
