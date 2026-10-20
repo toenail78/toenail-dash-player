@@ -1,18 +1,22 @@
 {
- "updated": "2026-10-20T07:10:27.643736+00:00",
+ "updated": "2026-10-20T10:05:09.646989+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
-   "id": "gn:CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "The Boring Company\u2019s latest Tesla tunnel truck mod \u201cfits like a glove\u201d",
-   "ts": "2026-10-20T05:39:14+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw?oc=5",
-   "video": null,
-   "expires": "2026-10-20T10:10:27.643736+00:00"
+   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
+   "co": "SpaceX",
+   "tier": "live",
+   "label": null,
+   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "ts": "2026-10-20T10:30:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=GxvZk5YHfR4",
+   "video": {
+    "kind": "youtube",
+    "id": "GxvZk5YHfR4"
+   },
+   "expires": "2026-10-20T10:35:09.646989+00:00"
   },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -28,23 +32,31 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-20T10:10:27.643736+00:00"
+   "expires": "2026-10-20T13:05:09.646989+00:00"
   },
   {
-   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
-   "co": "SpaceX",
+   "id": "gn:CBMimAFBVV95cUxPRURsOXBSSjBVQS1DU1ZCTGVQaENjd1VFYXloLVdDMXpqOVZYVjFIMWpHdXNHakctdDZrT20yUUlsMGRWeFFLNVRjdHNweEVnMmhmd1pSZFpncjRGbW5wMExGSFp2akY0VzdYa1d0QW01N2d1aHFJZ2FYb1p1cC11WVlFMnVwX0UtQ2NLYW9tNHcwRlo0NG1GYQ",
+   "co": "Tesla",
    "tier": "today",
-   "label": "UPCOMING TODAY",
-   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "ts": "2026-10-20T10:30:00+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=GxvZk5YHfR4",
-   "video": {
-    "kind": "youtube",
-    "id": "GxvZk5YHfR4"
-   },
-   "expires": "2026-10-20T10:10:27.643736+00:00"
+   "title": "ARK Invest Bets One Business Can Lift Tesla Stock to $4,400",
+   "ts": "2026-10-20T08:00:00+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRURsOXBSSjBVQS1DU1ZCTGVQaENjd1VFYXloLVdDMXpqOVZYVjFIMWpHdXNHakctdDZrT20yUUlsMGRWeFFLNVRjdHNweEVnMmhmd1pSZFpncjRGbW5wMExGSFp2akY0VzdYa1d0QW01N2d1aHFJZ2FYb1p1cC11WVlFMnVwX0UtQ2NLYW9tNHcwRlo0NG1GYQ?oc=5",
+   "video": null,
+   "expires": "2026-10-20T13:05:09.646989+00:00"
+  },
+  {
+   "id": "gn:CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw",
+   "co": "Boring Co",
+   "tier": "today",
+   "title": "The Boring Company\u2019s latest Tesla tunnel truck mod \u201cfits like a glove\u201d",
+   "ts": "2026-10-20T06:32:01+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw?oc=5",
+   "video": null,
+   "expires": "2026-10-20T13:05:09.646989+00:00"
   }
  ],
  "sources": {
