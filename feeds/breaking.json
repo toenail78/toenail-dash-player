@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T12:01:22.975597+00:00",
+ "updated": "2026-10-20T12:11:29.347676+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "GxvZk5YHfR4"
    },
-   "expires": "2026-10-20T12:31:22.975597+00:00"
+   "expires": "2026-10-20T12:41:29.347676+00:00"
   },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -32,7 +32,7 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-20T15:01:22.975597+00:00"
+   "expires": "2026-10-20T15:11:29.347676+00:00"
   },
   {
    "id": "gn:CBMiqgFBVV95cUxOMktPUmZrNmgyUDhFbTJGVUxVWmRHd0dIenBPV2o1Z3pzWkNuNlFsZWZuSXBBWGMtRXd0U1RoTlZRbUtJTG11bVhiUzNSeGFOT0U1TUt6OE5NclFZNnM5cFZLNnNhZU5qRkhXeTZjQUFCWGpSSUcxZUNUWjMwZU9aRW1BRlpucXZDQ09MWnBVSGJOQ1lCWV9DckUxTzZEMGl6SnR0NU1zZ0VnUQ",
@@ -44,7 +44,7 @@
    "src": "Business Insider via Google News",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMktPUmZrNmgyUDhFbTJGVUxVWmRHd0dIenBPV2o1Z3pzWkNuNlFsZWZuSXBBWGMtRXd0U1RoTlZRbUtJTG11bVhiUzNSeGFOT0U1TUt6OE5NclFZNnM5cFZLNnNhZU5qRkhXeTZjQUFCWGpSSUcxZUNUWjMwZU9aRW1BRlpucXZDQ09MWnBVSGJOQ1lCWV9DckUxTzZEMGl6SnR0NU1zZ0VnUQ?oc=5",
    "video": null,
-   "expires": "2026-10-20T15:01:22.975597+00:00"
+   "expires": "2026-10-20T15:11:29.347676+00:00"
   },
   {
    "id": "gn:CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw",
@@ -56,7 +56,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw?oc=5",
    "video": null,
-   "expires": "2026-10-20T15:01:22.975597+00:00"
+   "expires": "2026-10-20T15:11:29.347676+00:00"
   }
  ],
  "sources": {
@@ -66,7 +66,7 @@
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
-  "ll2": "stale",
+  "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
