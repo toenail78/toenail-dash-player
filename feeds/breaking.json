@@ -1,18 +1,38 @@
 {
- "updated": "2026-10-20T04:50:03.980687+00:00",
- "day_ct": "2026-10-19",
+ "updated": "2026-10-20T05:01:06.328860+00:00",
+ "day_ct": "2026-10-20",
  "items": [
   {
-   "id": "gn:CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3",
+   "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
    "tier": "today",
-   "title": "Poor weather forces scrub of Monday launch attempt of Bandwagon-5, SpaceX now targeting Tuesday",
-   "ts": "2026-10-19T08:15:56+00:00",
-   "ts_kind": "published",
-   "src": "Spaceflight Now via Google News",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzRlVTZBQTdtOENYM1BhV3V0VHZ6Q1JmR0tlaG9FenFmRmtDQWtGOW11U3pRMTY1TXRpS1NEQzVUdzduNHBlcEVwS1hIV2NsOElaTDRuSWNIRk9xU05iSENyY2s2Vk9USTFjM3RJNUpyVjJCcU1xdmdabDlna0tvVV9pR2YxWGhtdlJ6blJPX0VsMzZxMlNTd2YzTXM3X291cTNBY3BHRXlUSmNPT2dUMDQ2RXloMEhXdzNSWXRTMk5GWWpVa1JFVUJDb0JYMHR2SUs4VTh0UkY0VHlkS0RrWVJ3?oc=5",
-   "video": null,
-   "expires": "2026-10-20T07:50:03.980687+00:00"
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Starlink Group 15-15",
+   "ts": "2026-10-20T23:10:02+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=k-TFfeJD8T4",
+   "video": {
+    "kind": "youtube",
+    "id": "k-TFfeJD8T4"
+   },
+   "expires": "2026-10-20T08:01:06.328860+00:00"
+  },
+  {
+   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
+   "co": "SpaceX",
+   "tier": "today",
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "ts": "2026-10-20T10:30:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=GxvZk5YHfR4",
+   "video": {
+    "kind": "youtube",
+    "id": "GxvZk5YHfR4"
+   },
+   "expires": "2026-10-20T08:01:06.328860+00:00"
   }
  ],
  "sources": {
