@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:49:52.146182+00:00",
+ "updated": "2026-10-20T21:58:21.254849+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-21T00:49:52.146182+00:00"
+   "expires": "2026-10-21T00:58:21.254849+00:00"
   },
   {
    "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -32,7 +32,7 @@
     "kind": "youtube",
     "id": "UJmcwHwxip0"
    },
-   "expires": "2026-10-21T00:49:52.146182+00:00"
+   "expires": "2026-10-21T00:58:21.254849+00:00"
   }
  ],
  "sources": {
@@ -42,7 +42,7 @@
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
