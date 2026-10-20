@@ -1,23 +1,7 @@
 {
- "updated": "2026-10-20T13:50:38.471221+00:00",
+ "updated": "2026-10-20T14:12:12.908744+00:00",
  "day_ct": "2026-10-20",
  "items": [
-  {
-   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
-   "co": "SpaceX",
-   "tier": "live",
-   "label": null,
-   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-   "ts": "2026-10-20T11:04:00+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=UJmcwHwxip0",
-   "video": {
-    "kind": "youtube",
-    "id": "UJmcwHwxip0"
-   },
-   "expires": "2026-10-20T14:20:38.471221+00:00"
-  },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
@@ -32,7 +16,23 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-20T16:50:38.471221+00:00"
+   "expires": "2026-10-20T17:12:12.908744+00:00"
+  },
+  {
+   "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
+   "co": "SpaceX",
+   "tier": "today",
+   "label": "SUCCESS",
+   "title": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+   "ts": "2026-10-20T11:04:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=UJmcwHwxip0",
+   "video": {
+    "kind": "youtube",
+    "id": "UJmcwHwxip0"
+   },
+   "expires": "2026-10-20T17:12:12.908744+00:00"
   },
   {
    "id": "gn:CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw",
@@ -44,7 +44,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw?oc=5",
    "video": null,
-   "expires": "2026-10-20T16:50:38.471221+00:00"
+   "expires": "2026-10-20T17:12:12.908744+00:00"
   }
  ],
  "sources": {
