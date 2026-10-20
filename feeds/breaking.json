@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T05:36:37.518518+00:00",
+ "updated": "2026-10-20T05:41:40.115538+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWEJmaHJ6UTNEWS1fSEJBcUoySmVJVC0zelRPY3I4SEl5LU1zZWRFXzVoZ3ZVUTlwd3JkRERjY09kbE55blNQeTYwVmVQSWJQYl9vU2VHRXEyck10VW95RlFidFdMSGV2RFMxR2RUdFlSazlVRkJaUG9xYw?oc=5",
    "video": null,
-   "expires": "2026-10-20T08:36:37.518518+00:00"
+   "expires": "2026-10-20T08:41:40.115538+00:00"
   },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -28,7 +28,7 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-20T08:36:37.518518+00:00"
+   "expires": "2026-10-20T08:41:40.115538+00:00"
   },
   {
    "id": "ll2:3b430f81-0ff1-4d85-8a1a-cef0de326198",
@@ -44,7 +44,7 @@
     "kind": "youtube",
     "id": "GxvZk5YHfR4"
    },
-   "expires": "2026-10-20T08:36:37.518518+00:00"
+   "expires": "2026-10-20T08:41:40.115538+00:00"
   }
  ],
  "sources": {
