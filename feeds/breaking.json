@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:12:00.617610+00:00",
+ "updated": "2026-10-21T04:17:05.530006+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "UJmcwHwxip0"
    },
-   "expires": "2026-10-21T07:12:00.617610+00:00"
+   "expires": "2026-10-21T07:17:05.530006+00:00"
   }
  ],
  "sources": {
@@ -26,7 +26,7 @@
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
