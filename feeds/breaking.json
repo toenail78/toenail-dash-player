@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T05:20:48.525667+00:00",
+ "updated": "2026-10-21T05:31:18.755808+00:00",
  "day_ct": "2026-10-21",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIdTZoYkpMRGY4TDE2M1ZtcU0wX3U2c2N3Tko3WWRrR0NRdHFwbzJaVl92S214RVpDLXpCdnZ6X2RfeDhadUlZT055MTItVklmM3pxNjJYbWZwVV9nNzRkdjRSWGRvTXd5UWlMX21ESzRTUQ?oc=5",
    "video": null,
-   "expires": "2026-10-21T08:20:48.525667+00:00"
+   "expires": "2026-10-21T08:31:18.755808+00:00"
   },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
@@ -20,7 +20,7 @@
    "tier": "today",
    "label": "UPCOMING TODAY",
    "title": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "ts": "2026-10-21T21:59:00+00:00",
+   "ts": "2026-10-21T23:02:41+00:00",
    "ts_kind": "net",
    "src": "Launch Library 2",
    "url": "https://www.youtube.com/watch?v=k-TFfeJD8T4",
@@ -28,7 +28,7 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-21T08:20:48.525667+00:00"
+   "expires": "2026-10-21T08:31:18.755808+00:00"
   }
  ],
  "sources": {
