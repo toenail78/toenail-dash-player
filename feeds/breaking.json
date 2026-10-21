@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T01:17:10.072847+00:00",
+ "updated": "2026-10-21T01:27:38.478342+00:00",
  "day_ct": "2026-10-20",
  "items": [
   {
@@ -16,13 +16,13 @@
     "kind": "youtube",
     "id": "UJmcwHwxip0"
    },
-   "expires": "2026-10-21T04:17:10.072847+00:00"
+   "expires": "2026-10-21T04:27:38.478342+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
