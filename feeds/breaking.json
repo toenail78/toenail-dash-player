@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-21T08:39:10.355752+00:00",
+ "updated": "2026-10-21T09:15:07.740443+00:00",
  "day_ct": "2026-10-21",
  "items": [
-  {
-   "id": "gn:CBMingFBVV95cUxOY3RZa01fSWtxaEpETkVVYWhRYU5PS1lhQjJJRkVnOThWRktvU1hDaW9jZzdhcUJEaFdFS3F6bmsxVXczRW80WjJCUzZ0eVpxUXZSRVo4MW9hLTNWTmthYjBtWnpqZm5JY3FvTTVyWUVIMnV1ZGp5ckpFSlVMTHMtYnNDTHEzT1F2NFJ5OVAteHJNNmIzRlljdlR1M21pUQ",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Will Tesla\u2019s New Flying Roadster Send the Stock Flying?",
-   "ts": "2026-10-21T06:50:00+00:00",
-   "ts_kind": "published",
-   "src": "Yahoo Finance via Google News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3RZa01fSWtxaEpETkVVYWhRYU5PS1lhQjJJRkVnOThWRktvU1hDaW9jZzdhcUJEaFdFS3F6bmsxVXczRW80WjJCUzZ0eVpxUXZSRVo4MW9hLTNWTmthYjBtWnpqZm5JY3FvTTVyWUVIMnV1ZGp5ckpFSlVMTHMtYnNDTHEzT1F2NFJ5OVAteHJNNmIzRlljdlR1M21pUQ?oc=5",
-   "video": null,
-   "expires": "2026-10-21T11:39:10.355752+00:00"
-  },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
@@ -28,7 +16,19 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-21T11:39:10.355752+00:00"
+   "expires": "2026-10-21T12:15:07.740443+00:00"
+  },
+  {
+   "id": "gn:CBMingFBVV95cUxOY3RZa01fSWtxaEpETkVVYWhRYU5PS1lhQjJJRkVnOThWRktvU1hDaW9jZzdhcUJEaFdFS3F6bmsxVXczRW80WjJCUzZ0eVpxUXZSRVo4MW9hLTNWTmthYjBtWnpqZm5JY3FvTTVyWUVIMnV1ZGp5ckpFSlVMTHMtYnNDTHEzT1F2NFJ5OVAteHJNNmIzRlljdlR1M21pUQ",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Will Tesla\u2019s New Flying Roadster Send the Stock Flying?",
+   "ts": "2026-10-21T06:50:00+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3RZa01fSWtxaEpETkVVYWhRYU5PS1lhQjJJRkVnOThWRktvU1hDaW9jZzdhcUJEaFdFS3F6bmsxVXczRW80WjJCUzZ0eVpxUXZSRVo4MW9hLTNWTmthYjBtWnpqZm5JY3FvTTVyWUVIMnV1ZGp5ckpFSlVMTHMtYnNDTHEzT1F2NFJ5OVAteHJNNmIzRlljdlR1M21pUQ?oc=5",
+   "video": null,
+   "expires": "2026-10-21T12:15:07.740443+00:00"
   }
  ],
  "sources": {
