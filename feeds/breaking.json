@@ -1,19 +1,7 @@
 {
- "updated": "2026-10-21T06:38:30.970079+00:00",
+ "updated": "2026-10-21T06:55:55.022810+00:00",
  "day_ct": "2026-10-21",
  "items": [
-  {
-   "id": "gn:CBMickFVX3lxTFBIdTZoYkpMRGY4TDE2M1ZtcU0wX3U2c2N3Tko3WWRrR0NRdHFwbzJaVl92S214RVpDLXpCdnZ6X2RfeDhadUlZT055MTItVklmM3pxNjJYbWZwVV9nNzRkdjRSWGRvTXd5UWlMX21ESzRTUQ",
-   "co": "SpaceX",
-   "tier": "just",
-   "title": "SpaceX showcases exactly how it plans to catch Starship next month",
-   "ts": "2026-10-21T04:51:21+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIdTZoYkpMRGY4TDE2M1ZtcU0wX3U2c2N3Tko3WWRrR0NRdHFwbzJaVl92S214RVpDLXpCdnZ6X2RfeDhadUlZT055MTItVklmM3pxNjJYbWZwVV9nNzRkdjRSWGRvTXd5UWlMX21ESzRTUQ?oc=5",
-   "video": null,
-   "expires": "2026-10-21T09:38:30.970079+00:00"
-  },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
@@ -28,7 +16,7 @@
     "kind": "youtube",
     "id": "k-TFfeJD8T4"
    },
-   "expires": "2026-10-21T09:38:30.970079+00:00"
+   "expires": "2026-10-21T09:55:55.022810+00:00"
   }
  ],
  "sources": {
