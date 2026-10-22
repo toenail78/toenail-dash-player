@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-22T06:58:38.642304+00:00",
+ "updated": "2026-10-22T07:03:42.644194+00:00",
  "day_ct": "2026-10-22",
  "items": [],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
