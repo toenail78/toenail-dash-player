@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-23T08:40:00.856027+00:00",
+ "updated": "2026-10-23T11:37:45.524244+00:00",
  "day_ct": "2026-10-23",
  "items": [
+  {
+   "id": "gn:CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk",
+   "co": "SpaceX",
+   "tier": "just",
+   "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
+   "ts": "2026-10-23T11:00:57+00:00",
+   "ts_kind": "published",
+   "src": "Ars Technica via Google News",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk?oc=5",
+   "video": null,
+   "expires": "2026-10-23T14:37:45.524244+00:00"
+  },
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
@@ -16,7 +28,7 @@
     "kind": "youtube",
     "id": "zGZUw70ASg0"
    },
-   "expires": "2026-10-23T11:40:00.856027+00:00"
+   "expires": "2026-10-23T14:37:45.524244+00:00"
   },
   {
    "id": "gn:CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI",
@@ -28,19 +40,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelZwbXE4QWtpNVMyVnpQajNpdXZmSVcwbl9sT2sxaWZfMHZGdjlGRWJTSmdOM09qODF0VHhvbERUUVRER2JacXJvOUZPRmM2aElkRS1RNkNIRVZlVTg3bUdqa0owa1UySmlDb2VJZG9DNm9yN21IN2NmSGpGeG5GbTNEM0Z5ako3TEJxaG5FSWI?oc=5",
    "video": null,
-   "expires": "2026-10-23T11:40:00.856027+00:00"
-  },
-  {
-   "id": "gn:CBMicEFVX3lxTE1yWVVBeEluR1R6RVNFa0Mwd2JDZGF6dTY3MmN3VGxFRjVWdDlodlhVdTIxNllfNzRSbjg2ZEpqSFBUNzg2VHk5eGdreVFmSW5pZmdhVzBCT1FuSTIxbnVlUXlieHlMOHJ5a3N4OUNaZ0M",
-   "co": "SpaceX",
-   "tier": "today",
-   "title": "The Starship moon landing number NASA and Elon Musk can\u2019t agree on",
-   "ts": "2026-10-23T05:41:26+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWVVBeEluR1R6RVNFa0Mwd2JDZGF6dTY3MmN3VGxFRjVWdDlodlhVdTIxNllfNzRSbjg2ZEpqSFBUNzg2VHk5eGdreVFmSW5pZmdhVzBCT1FuSTIxbnVlUXlieHlMOHJ5a3N4OUNaZ0M?oc=5",
-   "video": null,
-   "expires": "2026-10-23T11:40:00.856027+00:00"
+   "expires": "2026-10-23T14:37:45.524244+00:00"
   }
  ],
  "sources": {
@@ -55,7 +55,7 @@
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
   "gnews:Starlink": "ok",
-  "gnews:xAI": "fail",
+  "gnews:xAI": "ok",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
   "gnews:Boring Co": "ok",
