@@ -1,9 +1,20 @@
 {
- "updated": 1792777299367,
+ "updated": 1792779174045,
  "items": [
   {
+   "id": "2113672397446381585",
+   "title": "Long video arguing Hitler was far-left",
+   "kind": "quote",
+   "by": "elonmusk",
+   "t": 1792773744000,
+   "dur": 538,
+   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113333337980899328/img/LWDRSuCClNaB-CAG.jpg",
+   "mp4": "https://video.twimg.com/amplify_video/2113333337980899328/vid/avc1/720x1280/_ZrgcKzWt0ljLeOl.mp4",
+   "url": "https://x.com/elonmusk/status/2113672397446381585"
+  },
+  {
    "id": "2113506760006984102",
-   "title": "Dwarkesh interview clip: Intel CTO on Terafab, with Musk",
+   "title": "Dwarkesh podcast clip: Intel CTO on Terafab with Elon Musk",
    "kind": "repost",
    "by": "firesidealpha",
    "t": 1792690461000,
@@ -14,7 +25,7 @@
   },
   {
    "id": "2113350664227271123",
-   "title": "Ron Baron on SpaceX being unlike any company he has seen",
+   "title": "Ron Baron on SpaceX after 56 years of investing",
    "kind": "repost",
    "by": "stark0xbt",
    "t": 1792679587000,
@@ -55,17 +66,6 @@
    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113265740790857728/img/yIySFo3zbedym1iY.jpg",
    "mp4": "https://video.twimg.com/amplify_video/2113265740790857728/vid/avc1/720x1280/3xQPDFeLeEdvc2O9.mp4",
    "url": "https://x.com/brivael/status/2113504252920230029"
-  },
-  {
-   "id": "2113500122537660892",
-   "title": "Video on Elon Musk rewriting the rules",
-   "kind": "repost",
-   "by": "brivael",
-   "t": 1792674766000,
-   "dur": 278,
-   "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113220869199740928/img/k_0g0hQs0wk_87x7.jpg",
-   "mp4": "https://video.twimg.com/amplify_video/2113220869199740928/vid/avc1/720x1280/0noqxmp9NhrXoRrV.mp4",
-   "url": "https://x.com/brivael/status/2113500122537660892"
   }
  ]
 }
