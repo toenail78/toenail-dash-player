@@ -1,30 +1,13 @@
 {
- "updated": "2026-10-22T20:58:26.895677+00:00",
+ "updated": "2026-10-23T01:33:05.894664+00:00",
  "day_ct": "2026-10-22",
- "items": [
-  {
-   "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
-   "co": "SpaceX",
-   "tier": "today",
-   "label": "UPCOMING TODAY",
-   "title": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "ts": "2026-10-22T22:51:18+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=k-TFfeJD8T4",
-   "video": {
-    "kind": "youtube",
-    "id": "k-TFfeJD8T4"
-   },
-   "expires": "2026-10-22T23:58:26.895677+00:00"
-  }
- ],
+ "items": [],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
