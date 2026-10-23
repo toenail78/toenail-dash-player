@@ -1,10 +1,36 @@
 {
- "updated": "2026-10-23T04:57:42.017694+00:00",
- "day_ct": "2026-10-22",
- "items": [],
+ "updated": "2026-10-23T05:02:48.723723+00:00",
+ "day_ct": "2026-10-23",
+ "items": [
+  {
+   "id": "gn:CBMicEFVX3lxTE1yWVVBeEluR1R6RVNFa0Mwd2JDZGF6dTY3MmN3VGxFRjVWdDlodlhVdTIxNllfNzRSbjg2ZEpqSFBUNzg2VHk5eGdreVFmSW5pZmdhVzBCT1FuSTIxbnVlUXlieHlMOHJ5a3N4OUNaZ0M",
+   "co": "SpaceX",
+   "tier": "just",
+   "title": "The Starship moon landing number NASA and Elon Musk can\u2019t agree on",
+   "ts": "2026-10-23T04:02:35+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWVVBeEluR1R6RVNFa0Mwd2JDZGF6dTY3MmN3VGxFRjVWdDlodlhVdTIxNllfNzRSbjg2ZEpqSFBUNzg2VHk5eGdreVFmSW5pZmdhVzBCT1FuSTIxbnVlUXlieHlMOHJ5a3N4OUNaZ0M?oc=5",
+   "video": null,
+   "expires": "2026-10-23T08:02:48.723723+00:00"
+  },
+  {
+   "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
+   "co": "SpaceX",
+   "tier": "today",
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Starlink Group 15-15",
+   "ts": "2026-10-23T21:30:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://ll.thespacedevs.com/2.3.0/launches/f6af629d-39b5-4f86-bc0c-f8776444a858/",
+   "video": null,
+   "expires": "2026-10-23T08:02:48.723723+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "fail",
-  "yt_live:SpaceX": "ok",
+  "yt_live:SpaceX": "fail",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
