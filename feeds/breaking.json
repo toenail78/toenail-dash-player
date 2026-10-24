@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-24T21:33:08.995458+00:00",
+ "updated": "2026-10-24T22:17:36.098181+00:00",
  "day_ct": "2026-10-24",
  "items": [
   {
    "id": "yt:fdFyXTdJPLA",
    "co": "Tesla",
-   "tier": "just",
+   "tier": "today",
    "title": "Roadster Interface",
    "ts": "2026-10-24T19:36:39+00:00",
    "src": "YouTube @Tesla",
@@ -14,7 +14,7 @@
     "kind": "youtube",
     "id": "fdFyXTdJPLA"
    },
-   "expires": "2026-10-25T00:33:08.995458+00:00"
+   "expires": "2026-10-25T01:17:36.098181+00:00"
   },
   {
    "id": "gn:CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw",
@@ -26,7 +26,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-10-25T00:33:08.995458+00:00"
+   "expires": "2026-10-25T01:17:36.098181+00:00"
   },
   {
    "id": "gn:CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY",
@@ -38,7 +38,7 @@
    "src": "TechCrunch via Google News",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
    "video": null,
-   "expires": "2026-10-25T00:33:08.995458+00:00"
+   "expires": "2026-10-25T01:17:36.098181+00:00"
   },
   {
    "id": "gn:CBMiygFBVV95cUxPajNHRGwyekQ3YWE2RUxreXR3MWRxZ0hFbHotS3lsejRuZ2c5dVNQb2tkY0xhSEEwY1NGTHBURkVJSjlueUEtTno2b20zNUtPTnBKWVh0SkFTaEIzcktTa0FWUF8wUTlNSFcxdkpvLTFKOEl2b2YwXzZ2X01pTWFhY0R3bXRKZmFsZ2FzTnJPakF5S2NHOHVRY05IY0lzSnZaZm9ONXdiZnhhTG9UOHJWMjVNMFRqWk1kSGRBb2NuTE9wMWRrUk9lXzdB",
@@ -50,7 +50,7 @@
    "src": "Fortune via Google News",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPajNHRGwyekQ3YWE2RUxreXR3MWRxZ0hFbHotS3lsejRuZ2c5dVNQb2tkY0xhSEEwY1NGTHBURkVJSjlueUEtTno2b20zNUtPTnBKWVh0SkFTaEIzcktTa0FWUF8wUTlNSFcxdkpvLTFKOEl2b2YwXzZ2X01pTWFhY0R3bXRKZmFsZ2FzTnJPakF5S2NHOHVRY05IY0lzSnZaZm9ONXdiZnhhTG9UOHJWMjVNMFRqWk1kSGRBb2NuTE9wMWRrUk9lXzdB?oc=5",
    "video": null,
-   "expires": "2026-10-25T00:33:08.995458+00:00"
+   "expires": "2026-10-25T01:17:36.098181+00:00"
   }
  ],
  "sources": {
