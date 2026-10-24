@@ -1,13 +1,26 @@
 {
- "updated": "2026-10-24T06:53:38.615814+00:00",
+ "updated": "2026-10-24T12:29:41.283177+00:00",
  "day_ct": "2026-10-24",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMijwFBVV95cUxQNXJEMEJSd2p3N1JRSTVheUxzaTZEZG8wYTU4SkdMRWl1QXlMRTZQN2c2X05jRHFFN1FsaFJMb3hWRmJxVFZzbXJLNTY3ZGhvZEt3bFljaE41ZzdrU3NTV0gxNnVfREhGYi1rT2tTb0pybFg2YTlVV21YblliQnA2RzVEbXFiNWdQdXk5NE11bw",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
+   "ts": "2026-10-24T09:25:47+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXJEMEJSd2p3N1JRSTVheUxzaTZEZG8wYTU4SkdMRWl1QXlMRTZQN2c2X05jRHFFN1FsaFJMb3hWRmJxVFZzbXJLNTY3ZGhvZEt3bFljaE41ZzdrU3NTV0gxNnVfREhGYi1rT2tTb0pybFg2YTlVV21YblliQnA2RzVEbXFiNWdQdXk5NE11bw?oc=5",
+   "video": null,
+   "expires": "2026-10-24T15:29:41.283177+00:00"
+  }
+ ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
