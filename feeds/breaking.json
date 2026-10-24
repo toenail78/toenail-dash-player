@@ -1,42 +1,13 @@
 {
- "updated": "2026-10-24T02:21:46.829803+00:00",
- "day_ct": "2026-10-23",
- "items": [
-  {
-   "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
-   "co": "SpaceX",
-   "tier": "today",
-   "label": "SUCCESS",
-   "title": "Falcon 9 Block 5 | Starlink Group 15-15",
-   "ts": "2026-10-23T22:48:44+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=cyJtopOtMZA",
-   "video": {
-    "kind": "youtube",
-    "id": "cyJtopOtMZA"
-   },
-   "expires": "2026-10-24T05:21:46.829803+00:00"
-  },
-  {
-   "id": "gn:CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk",
-   "co": "SpaceX",
-   "tier": "today",
-   "title": "Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready",
-   "ts": "2026-10-23T11:00:57+00:00",
-   "ts_kind": "published",
-   "src": "Ars Technica via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk?oc=5",
-   "video": null,
-   "expires": "2026-10-24T05:21:46.829803+00:00"
-  }
- ],
+ "updated": "2026-10-24T05:21:37.479634+00:00",
+ "day_ct": "2026-10-24",
+ "items": [],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
