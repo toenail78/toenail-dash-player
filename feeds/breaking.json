@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-24T00:00:34.584960+00:00",
+ "updated": "2026-10-24T00:10:57.654655+00:00",
  "day_ct": "2026-10-23",
  "items": [
   {
    "id": "ll2:f6af629d-39b5-4f86-bc0c-f8776444a858",
    "co": "SpaceX",
-   "tier": "live",
-   "label": null,
+   "tier": "just",
+   "label": "SUCCESS",
    "title": "Falcon 9 Block 5 | Starlink Group 15-15",
    "ts": "2026-10-23T22:48:44+00:00",
    "ts_kind": "net",
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "cyJtopOtMZA"
    },
-   "expires": "2026-10-24T00:30:34.584960+00:00"
+   "expires": "2026-10-24T03:10:57.654655+00:00"
   },
   {
    "id": "gn:CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk",
@@ -28,7 +28,7 @@
    "src": "Ars Technica via Google News",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk?oc=5",
    "video": null,
-   "expires": "2026-10-24T03:00:34.584960+00:00"
+   "expires": "2026-10-24T03:10:57.654655+00:00"
   }
  ],
  "sources": {
