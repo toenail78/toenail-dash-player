@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T02:00:58.136453+00:00",
+ "updated": "2026-10-24T02:06:22.533122+00:00",
  "day_ct": "2026-10-23",
  "items": [
   {
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "cyJtopOtMZA"
    },
-   "expires": "2026-10-24T05:00:58.136453+00:00"
+   "expires": "2026-10-24T05:06:22.533122+00:00"
   },
   {
    "id": "gn:CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk",
@@ -28,15 +28,15 @@
    "src": "Ars Technica via Google News",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWE1lVmZRVTlpUVdKREIxNnpXN1Z0N1ZNUG93cmdCOFl2Yk5Wcm9xalVNV1ptbTdfTDB0bTZKbjFPYm41VVozYlhyNmdwdGFBWnJWQ1dWZ1VYS3ZzdnZraXVzNGlOWTAxdFkwRXI1cE1NOE5HV0NHMDlPYzhEQWNTcHQ5T0gwMWRxQk9rdnE5N0x0b05ncU5UajZNcmJkejE0WVBPeUFzSDc5c2FIdTBIZGMwdTNabjNkYzJybTNNUVk?oc=5",
    "video": null,
-   "expires": "2026-10-24T05:00:58.136453+00:00"
+   "expires": "2026-10-24T05:06:22.533122+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
