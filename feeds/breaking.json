@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-25T14:39:51.579824+00:00",
+ "updated": "2026-10-25T14:50:15.250467+00:00",
  "day_ct": "2026-10-25",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMiakFVX3lxTE9pb3V1OUROYk53OE4tTk8yaFp3SDExNEYwZXhuaDNRcUI5dWhLRktlQmNnRVBHVm9fdmUyU1pkd1NZQk9qMlJnWG5QOTRycmwzOGdZWlVGM3NJejBDelFxXzkwLTNhcEpaRmc",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Tesla makes good on its Cybercab promise in just two weeks",
+   "ts": "2026-10-25T14:40:14+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pb3V1OUROYk53OE4tTk8yaFp3SDExNEYwZXhuaDNRcUI5dWhLRktlQmNnRVBHVm9fdmUyU1pkd1NZQk9qMlJnWG5QOTRycmwzOGdZWlVGM3NJejBDelFxXzkwLTNhcEpaRmc?oc=5",
+   "video": null,
+   "expires": "2026-10-25T17:50:15.250467+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
