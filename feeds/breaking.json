@@ -1,21 +1,7 @@
 {
- "updated": "2026-10-25T01:10:51.830267+00:00",
+ "updated": "2026-10-25T01:36:45.661675+00:00",
  "day_ct": "2026-10-24",
  "items": [
-  {
-   "id": "yt:fdFyXTdJPLA",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "Roadster Interface",
-   "ts": "2026-10-24T19:36:39+00:00",
-   "src": "YouTube @Tesla",
-   "url": "https://www.youtube.com/watch?v=fdFyXTdJPLA",
-   "video": {
-    "kind": "youtube",
-    "id": "fdFyXTdJPLA"
-   },
-   "expires": "2026-10-25T04:10:51.830267+00:00"
-  },
   {
    "id": "gn:CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw",
    "co": "Tesla",
@@ -26,7 +12,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-10-25T04:10:51.830267+00:00"
+   "expires": "2026-10-25T04:36:45.661675+00:00"
   },
   {
    "id": "gn:CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY",
@@ -38,15 +24,15 @@
    "src": "TechCrunch via Google News",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
    "video": null,
-   "expires": "2026-10-25T04:10:51.830267+00:00"
+   "expires": "2026-10-25T04:36:45.661675+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
