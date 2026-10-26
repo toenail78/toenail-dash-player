@@ -1,22 +1,18 @@
 {
- "updated": "2026-10-26T18:02:15.475763+00:00",
+ "updated": "2026-10-26T21:19:31.754318+00:00",
  "day_ct": "2026-10-26",
  "items": [
   {
-   "id": "ll2:e2886a96-5ce9-4f45-872f-4e25a00be837",
-   "co": "SpaceX",
+   "id": "gn:CBMilAFBVV95cUxNZFRnVVVvY2Mwb09HNHZxWFlpWDhfTEdmLTVrQnNTN09XNEIyVldkTWJrNjNFcHM3REVIckowdVYwT01zNnBfQ08tQk5uYXJzN05RUnByVXdsLXZERS01VUtIVC1xQkxVVXhGWnRHb2xsZGN5VG1TcTFnQng2NWI0SHhqUEpEMzBPd05keFdaYWZnMDli",
+   "co": "Tesla",
    "tier": "today",
-   "label": "UPCOMING TODAY",
-   "title": "Falcon 9 Block 5 | Starlink Group 15-16",
-   "ts": "2026-10-27T04:45:00+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://x.com/i/broadcasts/1mGPaZgYgLDJN",
-   "video": {
-    "kind": "x",
-    "url": "https://x.com/i/broadcasts/1mGPaZgYgLDJN"
-   },
-   "expires": "2026-10-26T21:02:15.475763+00:00"
+   "title": "Elon Musk Says He'd Be 'Stunned' If Any Robot Rivals Optimus At Launch: Gene Munster Calls It A Tesla 'Call Option' With 'Massive Value'",
+   "ts": "2026-10-26T18:30:42+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFRnVVVvY2Mwb09HNHZxWFlpWDhfTEdmLTVrQnNTN09XNEIyVldkTWJrNjNFcHM3REVIckowdVYwT01zNnBfQ08tQk5uYXJzN05RUnByVXdsLXZERS01VUtIVC1xQkxVVXhGWnRHb2xsZGN5VG1TcTFnQng2NWI0SHhqUEpEMzBPd05keFdaYWZnMDli?oc=5",
+   "video": null,
+   "expires": "2026-10-27T00:19:31.754318+00:00"
   },
   {
    "id": "gn:CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU",
@@ -28,31 +24,7 @@
    "src": "SpaceNews via Google News",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU?oc=5",
    "video": null,
-   "expires": "2026-10-26T21:02:15.475763+00:00"
-  },
-  {
-   "id": "gn:CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw",
-   "co": "Starlink",
-   "tier": "today",
-   "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
-   "ts": "2026-10-26T11:33:43+00:00",
-   "ts_kind": "published",
-   "src": "Reuters via Google News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
-   "video": null,
-   "expires": "2026-10-26T21:02:15.475763+00:00"
-  },
-  {
-   "id": "gn:CBMihAFBVV95cUxOZjRISUlMdDF1alVHd0JSeDdZOUhFQ2dTTzFkMFlkME9pNHRCTGFGME9GLVJ3TklGbGhydk9QQ3dNWTE2Y2lhbTdfeHdPdmxZREtQMHZSUDI4b0txc1VGR1N3bHBRUTVyc2pSVkY1TGxhY3VlRVRFUm5acjlDWUR1M0lnY2k",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "Tesla\u2019s AI ambitions take flight as rivals race to keep up",
-   "ts": "2026-10-26T05:00:20+00:00",
-   "ts_kind": "published",
-   "src": "Financial Times via Google News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRISUlMdDF1alVHd0JSeDdZOUhFQ2dTTzFkMFlkME9pNHRCTGFGME9GLVJ3TklGbGhydk9QQ3dNWTE2Y2lhbTdfeHdPdmxZREtQMHZSUDI4b0txc1VGR1N3bHBRUTVyc2pSVkY1TGxhY3VlRVRFUm5acjlDWUR1M0lnY2k?oc=5",
-   "video": null,
-   "expires": "2026-10-26T21:02:15.475763+00:00"
+   "expires": "2026-10-27T00:19:31.754318+00:00"
   }
  ],
  "sources": {
