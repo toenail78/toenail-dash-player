@@ -1,38 +1,66 @@
 {
- "updated": "2026-10-26T02:45:19.993367+00:00",
- "day_ct": "2026-10-25",
+ "updated": "2026-10-26T18:02:15.475763+00:00",
+ "day_ct": "2026-10-26",
  "items": [
   {
-   "id": "gn:CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc",
-   "co": "xAI",
+   "id": "ll2:e2886a96-5ce9-4f45-872f-4e25a00be837",
+   "co": "SpaceX",
    "tier": "today",
-   "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
-   "ts": "2026-10-25T21:31:16+00:00",
-   "ts_kind": "published",
-   "src": "TechCrunch via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTJaSVEwZnRJVGsxeTg2ZmFoNVdobHp6eVdoTFpBYjRjVDFkaGtzT29DdXZKXzJYNk9tWDJvQUROdDVTdUZBV0FBRG5LYlFWVjBvQzlSSlAxRXI1R1FGZ0JUYm16a3BjcTBfaDV5SUFzUnI5MkhXQUtuY3JKY19ack10bWtFQy1XT0Fia2RqYktTclR2a0hWbFNDWWRieEh1LXc?oc=5",
-   "video": null,
-   "expires": "2026-10-26T05:45:19.993367+00:00"
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Starlink Group 15-16",
+   "ts": "2026-10-27T04:45:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://x.com/i/broadcasts/1mGPaZgYgLDJN",
+   "video": {
+    "kind": "x",
+    "url": "https://x.com/i/broadcasts/1mGPaZgYgLDJN"
+   },
+   "expires": "2026-10-26T21:02:15.475763+00:00"
   },
   {
-   "id": "gn:CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU",
+   "id": "gn:CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU",
+   "co": "SpaceX",
+   "tier": "today",
+   "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+   "ts": "2026-10-26T13:11:31+00:00",
+   "ts_kind": "published",
+   "src": "SpaceNews via Google News",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU?oc=5",
+   "video": null,
+   "expires": "2026-10-26T21:02:15.475763+00:00"
+  },
+  {
+   "id": "gn:CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw",
+   "co": "Starlink",
+   "tier": "today",
+   "title": "EasyJet to offer Starlink internet onboard some flights from 2027",
+   "ts": "2026-10-26T11:33:43+00:00",
+   "ts_kind": "published",
+   "src": "Reuters via Google News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc21wdE5SVUlzdjlSMHBrWW9yRTllenFIT1prYm9KVnNnbWp0OTlZamFnNkdOaHVDMy1wS19iUnJubkRaa2c1S2tSanFPLVJyTEpkYVBjcTlrZ255bmtyd2ZaRVdJTEhWMGhTTnlWd2VSSnhxRUlDNHc1VG9CbHQtMTFZOE1Uek1RZmRHQ25qZzQzOG1BeDZMVlFiSHg5d0NKUV9sXw?oc=5",
+   "video": null,
+   "expires": "2026-10-26T21:02:15.475763+00:00"
+  },
+  {
+   "id": "gn:CBMihAFBVV95cUxOZjRISUlMdDF1alVHd0JSeDdZOUhFQ2dTTzFkMFlkME9pNHRCTGFGME9GLVJ3TklGbGhydk9QQ3dNWTE2Y2lhbTdfeHdPdmxZREtQMHZSUDI4b0txc1VGR1N3bHBRUTVyc2pSVkY1TGxhY3VlRVRFUm5acjlDWUR1M0lnY2k",
    "co": "Tesla",
    "tier": "today",
-   "title": "Toyota takes on Tesla and China in humanoid robot race",
-   "ts": "2026-10-25T21:00:06+00:00",
+   "title": "Tesla\u2019s AI ambitions take flight as rivals race to keep up",
+   "ts": "2026-10-26T05:00:20+00:00",
    "ts_kind": "published",
    "src": "Financial Times via Google News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOay04eC1KWXJvNXZNTTlwaWtmU3F6UmlUU0VZck0zTkhIdmdiQWNhdTBWNDFtelRnemhNTUR6bU1ObE5rMHdJNHEwSzh0WlZaQ1dBM0ZiTUc1MV9iMzE4NXFpQmtUYnJqSlpCMGJiUzk2dXZnSWhzSlJQLUtqRl9KaE5LeHU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRISUlMdDF1alVHd0JSeDdZOUhFQ2dTTzFkMFlkME9pNHRCTGFGME9GLVJ3TklGbGhydk9QQ3dNWTE2Y2lhbTdfeHdPdmxZREtQMHZSUDI4b0txc1VGR1N3bHBRUTVyc2pSVkY1TGxhY3VlRVRFUm5acjlDWUR1M0lnY2k?oc=5",
    "video": null,
-   "expires": "2026-10-26T05:45:19.993367+00:00"
+   "expires": "2026-10-26T21:02:15.475763+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
