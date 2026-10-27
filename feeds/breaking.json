@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:52:32.720527+00:00",
+ "updated": "2026-10-27T01:03:16.836808+00:00",
  "day_ct": "2026-10-26",
  "items": [
   {
@@ -12,23 +12,11 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFRnVVVvY2Mwb09HNHZxWFlpWDhfTEdmLTVrQnNTN09XNEIyVldkTWJrNjNFcHM3REVIckowdVYwT01zNnBfQ08tQk5uYXJzN05RUnByVXdsLXZERS01VUtIVC1xQkxVVXhGWnRHb2xsZGN5VG1TcTFnQng2NWI0SHhqUEpEMzBPd05keFdaYWZnMDli?oc=5",
    "video": null,
-   "expires": "2026-10-27T03:52:32.720527+00:00"
-  },
-  {
-   "id": "gn:CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU",
-   "co": "SpaceX",
-   "tier": "today",
-   "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-   "ts": "2026-10-26T13:11:31+00:00",
-   "ts_kind": "published",
-   "src": "SpaceNews via Google News",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXJYakpzT09BenQ5RW5NcUJlYjBSRnZxWnA2bHA4dlROeTNCUUxVSGV4ckxzNVRwVHpjTV9NS3dCR0RpWHlCd1A1UHVCbTRzMHFkdmM5cTlvNnZ5TjkzNjBFWFN5YXdnRWV5V3NDSU10TzJGRDF6T1RRZ1RtS0ZweU9XSnpXMXZXZHpud3JRM1ZoNE94b21pSlNodHJHb05TckdHMkNQWEdBRVQ5MWo0RmdFRkpob1Q0eVFBUFJ0bXd5QUwzWVpoSWN6LWlOeUU?oc=5",
-   "video": null,
-   "expires": "2026-10-27T03:52:32.720527+00:00"
+   "expires": "2026-10-27T04:03:16.836808+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
