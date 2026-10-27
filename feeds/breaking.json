@@ -1,54 +1,54 @@
 {
- "updated": "2026-10-27T05:16:22.773141+00:00",
+ "updated": "2026-10-27T11:03:41.574929+00:00",
  "day_ct": "2026-10-27",
  "items": [
   {
-   "id": "gn:CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Tesla has a Cybercab problem nobody saw coming",
-   "ts": "2026-10-27T05:02:25+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw?oc=5",
-   "video": null,
-   "expires": "2026-10-27T08:16:22.773141+00:00"
+   "id": "ll2:e2886a96-5ce9-4f45-872f-4e25a00be837",
+   "co": "SpaceX",
+   "tier": "live",
+   "label": null,
+   "title": "Falcon 9 Block 5 | Starlink Group 15-16",
+   "ts": "2026-10-27T07:25:51+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=hj1OtIh4gCw",
+   "video": {
+    "kind": "youtube",
+    "id": "hj1OtIh4gCw"
+   },
+   "expires": "2026-10-27T11:33:41.574929+00:00"
   },
   {
    "id": "gn:CBMinwFBVV95cUxNZWdRMGxYY0YzTnNEbkFLZFlYb0pTaUpJSjBDSF9tdkhkQlV0VHRENW1Ed2JFdFZ6VUZfWWd1ZHkyaVpocUQzN0RHY2RWeFlGVFN5dVlzTmY1NHlkZjdweVZNdVhGZGhEcTlmaDdtRFJJc0NHM05ocTI2bUVCMFZpN0lRUmxfS0VoM3RMZ3hsLXJ4S3dYNnBrRGlkTktGVmc",
    "co": "SpaceX",
    "tier": "just",
-   "title": "West Coast Falcon 9 rocket to launch 27 Starlink satellites",
-   "ts": "2026-10-27T04:18:45+00:00",
+   "title": "West Coast Falcon 9 rocket launches 27 Starlink satellites",
+   "ts": "2026-10-27T09:32:24+00:00",
    "ts_kind": "published",
    "src": "Spaceflight Now via Google News",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZWdRMGxYY0YzTnNEbkFLZFlYb0pTaUpJSjBDSF9tdkhkQlV0VHRENW1Ed2JFdFZ6VUZfWWd1ZHkyaVpocUQzN0RHY2RWeFlGVFN5dVlzTmY1NHlkZjdweVZNdVhGZGhEcTlmaDdtRFJJc0NHM05ocTI2bUVCMFZpN0lRUmxfS0VoM3RMZ3hsLXJ4S3dYNnBrRGlkTktGVmc?oc=5",
    "video": null,
-   "expires": "2026-10-27T08:16:22.773141+00:00"
+   "expires": "2026-10-27T14:03:41.574929+00:00"
   },
   {
-   "id": "ll2:e2886a96-5ce9-4f45-872f-4e25a00be837",
-   "co": "SpaceX",
+   "id": "gn:CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw",
+   "co": "Tesla",
    "tier": "today",
-   "label": "UPCOMING TODAY",
-   "title": "Falcon 9 Block 5 | Starlink Group 15-16",
-   "ts": "2026-10-27T07:25:51+00:00",
-   "ts_kind": "net",
-   "src": "Launch Library 2",
-   "url": "https://www.youtube.com/watch?v=DnPEZ8GAvOU",
-   "video": {
-    "kind": "youtube",
-    "id": "DnPEZ8GAvOU"
-   },
-   "expires": "2026-10-27T08:16:22.773141+00:00"
+   "title": "Tesla has a Cybercab problem nobody saw coming",
+   "ts": "2026-10-27T08:55:36+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lendZcGdwdlRyN21JTjBNT0Z4ajZHaHR5ZGNZR2RZakYwMUtyOXdxLXBua19VQTZfeEc3TUFYeGMzVDlNMmU4Wl9wMkpEcEVWYXg2LXJBdGJoQnhnbV9WQW41eThPblRfQnk5MG0xY3pnY09mRmdObnI5Q1JQdw?oc=5",
+   "video": null,
+   "expires": "2026-10-27T14:03:41.574929+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
