@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-29T04:17:53.676050+00:00",
+ "updated": "2026-10-29T04:38:09.605902+00:00",
  "day_ct": "2026-10-28",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMilwFBVV95cUxQcUhzdU1fYWg1b3B5czh3ZFpUWDBnMDJlaU9mYWFGa3dPTGtrWHJqOGZtNUM4d09pLWlqZVlNY1RQZ1ByVXdVLUkxakd0RTFEd0ctYk03dEtvUG0zM0tOS2JSYks1c0M5Zm51dFhuUG5LN0tMaEJtWjhnLTVsZlZQUnpwb0dNWE5SQTR0TG1FSmhCV0FuNUdV",
+   "co": "SpaceX",
+   "tier": "today",
+   "title": "Elon Musk Says SpaceX\u2019s Louisiana Starbase Could Handle 10,000 Starship Launches A Year",
+   "ts": "2026-10-28T11:22:19+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUhzdU1fYWg1b3B5czh3ZFpUWDBnMDJlaU9mYWFGa3dPTGtrWHJqOGZtNUM4d09pLWlqZVlNY1RQZ1ByVXdVLUkxakd0RTFEd0ctYk03dEtvUG0zM0tOS2JSYks1c0M5Zm51dFhuUG5LN0tMaEJtWjhnLTVsZlZQUnpwb0dNWE5SQTR0TG1FSmhCV0FuNUdV?oc=5",
+   "video": null,
+   "expires": "2026-10-29T07:38:09.605902+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
