@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:51:51.341981+00:00",
+ "updated": "2026-10-29T13:56:55.436602+00:00",
  "day_ct": "2026-10-29",
  "items": [
   {
@@ -12,19 +12,19 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWXhKM0o5WlI2Q1VHTm15RVBlWUxybS1pRlBzMHNYQnIwbVBjTzlyRzlHX2Vyc3JkRUIyVUtlRnctR3B5TEpENVlzdWc3eEtydDVMMDdWMW5GZmlRa1paZ1lkTEM4Z0ctUHVvdHFYeTkybDkwWno0QlFwUjVDX0pXbm9LVFMyelB4SXRZNE83VFg0UU0?oc=5",
    "video": null,
-   "expires": "2026-10-29T16:51:51.341981+00:00"
+   "expires": "2026-10-29T16:56:55.436602+00:00"
   },
   {
    "id": "gn:CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn",
    "co": "SpaceX",
    "tier": "today",
-   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+   "title": "SpaceX no longer needs NASA, and that\u2019s a problem for America\u2019s space agency",
    "ts": "2026-10-29T11:00:08+00:00",
    "ts_kind": "published",
    "src": "Ars Technica via Google News",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn?oc=5",
    "video": null,
-   "expires": "2026-10-29T16:51:51.341981+00:00"
+   "expires": "2026-10-29T16:56:55.436602+00:00"
   }
  ],
  "sources": {
@@ -34,7 +34,7 @@
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
