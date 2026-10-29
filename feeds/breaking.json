@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T01:56:59.360298+00:00",
+ "updated": "2026-10-29T02:07:28.389948+00:00",
  "day_ct": "2026-10-28",
  "items": [
   {
@@ -12,11 +12,11 @@
    "src": "Forbes via Google News",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1djenZoVlpxM01NRjJSOW5qcUJwZnlHdTVCaTkwdXo1bjNyUXY1MVhUd2hVUGY3UVpUVU1MWGpEMW11b0dZYk9TeXVtUl9UZlNsTUhmNzN2RUlpUzF1aUUzTDBsRE85X1NKbEV1ZXhKbVh2UWVyWGNVd09qLVhwUG44UzVzbmVfQ2VrTUtHazgwNGF1Q0dVWlM5bWlwYnpPVk1aYV83X3R4UEttTWNiNk5jQmRfekwxMnc?oc=5",
    "video": null,
-   "expires": "2026-10-29T04:56:59.360298+00:00"
+   "expires": "2026-10-29T05:07:28.389948+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
