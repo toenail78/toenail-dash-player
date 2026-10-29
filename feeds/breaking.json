@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:46:40.727770+00:00",
+ "updated": "2026-10-29T20:53:27.633207+00:00",
  "day_ct": "2026-10-29",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-10-29T23:46:40.727770+00:00"
+   "expires": "2026-10-29T23:53:27.633207+00:00"
   },
   {
    "id": "gn:CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn",
@@ -24,7 +24,7 @@
    "src": "Ars Technica via Google News",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn?oc=5",
    "video": null,
-   "expires": "2026-10-29T23:46:40.727770+00:00"
+   "expires": "2026-10-29T23:53:27.633207+00:00"
   }
  ],
  "sources": {
@@ -32,9 +32,9 @@
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
-  "ll2": "stale",
+  "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
