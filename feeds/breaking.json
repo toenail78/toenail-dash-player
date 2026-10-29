@@ -1,26 +1,38 @@
 {
- "updated": "2026-10-29T04:55:17.112548+00:00",
- "day_ct": "2026-10-28",
+ "updated": "2026-10-29T11:16:12.779118+00:00",
+ "day_ct": "2026-10-29",
  "items": [
   {
-   "id": "gn:CBMilwFBVV95cUxQcUhzdU1fYWg1b3B5czh3ZFpUWDBnMDJlaU9mYWFGa3dPTGtrWHJqOGZtNUM4d09pLWlqZVlNY1RQZ1ByVXdVLUkxakd0RTFEd0ctYk03dEtvUG0zM0tOS2JSYks1c0M5Zm51dFhuUG5LN0tMaEJtWjhnLTVsZlZQUnpwb0dNWE5SQTR0TG1FSmhCV0FuNUdV",
+   "id": "gn:CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn",
    "co": "SpaceX",
-   "tier": "today",
-   "title": "Elon Musk Says SpaceX\u2019s Louisiana Starbase Could Handle 10,000 Starship Launches A Year",
-   "ts": "2026-10-28T11:22:19+00:00",
+   "tier": "just",
+   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+   "ts": "2026-10-29T11:00:08+00:00",
    "ts_kind": "published",
-   "src": "Yahoo Finance via Google News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUhzdU1fYWg1b3B5czh3ZFpUWDBnMDJlaU9mYWFGa3dPTGtrWHJqOGZtNUM4d09pLWlqZVlNY1RQZ1ByVXdVLUkxakd0RTFEd0ctYk03dEtvUG0zM0tOS2JSYks1c0M5Zm51dFhuUG5LN0tMaEJtWjhnLTVsZlZQUnpwb0dNWE5SQTR0TG1FSmhCV0FuNUdV?oc=5",
+   "src": "Ars Technica via Google News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHAzekVBR3B2VGZLQU1CRGlaU1BKX3B6ZnJ4UjA3cTJzN2xVQkgzcm9acW85QloyeHZJVl8wVWx3YUVrMm9xanQyaHRHNUpOWnNiOE5OVjJEN1NaWUU2VDQxMEE5YXVpRGRYU1FZb0JNTlhnamhfeVJjWEJCRlVzX3ZTcXk5dHBkOGRFLXhmaFllUzM2MFB1YWFTN1FSdldweXF2VFlkT2dIbmJPQ1FMZVpn?oc=5",
    "video": null,
-   "expires": "2026-10-29T07:55:17.112548+00:00"
+   "expires": "2026-10-29T14:16:12.779118+00:00"
+  },
+  {
+   "id": "gn:CBMif0FVX3lxTE9Xc1VFOFREaFRuTEtKcm00S1M3b0E2QUlZVWl4Y1I4QWdJdWphNkF1TWRkOTdLU2tUVkVjNzVqZ1o2bGJYVzl5ZFFaSi1lak9KRmx4VDlHMEhseG1kbjVUWTBlbkttNUZvYXZCOC1RUmdoMTdmSFd2R2N3UW5KOEE",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Tesla Semi catches fire in California: what we know",
+   "ts": "2026-10-29T09:25:11+00:00",
+   "ts_kind": "published",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Xc1VFOFREaFRuTEtKcm00S1M3b0E2QUlZVWl4Y1I4QWdJdWphNkF1TWRkOTdLU2tUVkVjNzVqZ1o2bGJYVzl5ZFFaSi1lak9KRmx4VDlHMEhseG1kbjVUWTBlbkttNUZvYXZCOC1RUmdoMTdmSFd2R2N3UW5KOEE?oc=5",
+   "video": null,
+   "expires": "2026-10-29T14:16:12.779118+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
