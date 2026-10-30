@@ -1,27 +1,43 @@
 {
- "updated": "2026-10-30T04:58:22.693013+00:00",
- "day_ct": "2026-10-29",
+ "updated": "2026-10-30T05:03:50.126809+00:00",
+ "day_ct": "2026-10-30",
  "items": [
   {
-   "id": "gn:CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw",
+   "id": "gn:CBMic0FVX3lxTE84MDhiWGhZZlpNWVkxMXlkZjdlTkF6RHVkZzhzamhFdGNZNnZQdGhCdGM3MlBJXzFyNk0wcHJoZzNuV2FmNGhKT2tBWXQ5N1dhREJ1VTNDcWJOdWFoaUdGUGRueTFabkdta0ZHZjJfbFh2d1U",
    "co": "Tesla",
-   "tier": "today",
-   "title": "Here Are All Of The Crazy Tricks The Tesla Roadster Just Did",
-   "ts": "2026-10-29T20:36:59+00:00",
+   "tier": "just",
+   "title": "Tesla made napping in a Robotaxi easier with its latest update",
+   "ts": "2026-10-30T03:59:38+00:00",
    "ts_kind": "published",
-   "src": "InsideEVs via Google News",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
+   "src": "Teslarati via Google News",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDhiWGhZZlpNWVkxMXlkZjdlTkF6RHVkZzhzamhFdGNZNnZQdGhCdGM3MlBJXzFyNk0wcHJoZzNuV2FmNGhKT2tBWXQ5N1dhREJ1VTNDcWJOdWFoaUdGUGRueTFabkdta0ZHZjJfbFh2d1U?oc=5",
    "video": null,
-   "expires": "2026-10-30T07:58:22.693013+00:00"
+   "expires": "2026-10-30T08:03:50.126809+00:00"
+  },
+  {
+   "id": "ll2:57ce0a39-d035-4f16-a418-bd6108f78199",
+   "co": "SpaceX",
+   "tier": "today",
+   "label": "UPCOMING TODAY",
+   "title": "Falcon 9 Block 5 | Starlink Group 15-18",
+   "ts": "2026-10-31T03:48:00+00:00",
+   "ts_kind": "net",
+   "src": "Launch Library 2",
+   "url": "https://www.youtube.com/watch?v=OVOVtaf15eY",
+   "video": {
+    "kind": "youtube",
+    "id": "OVOVtaf15eY"
+   },
+   "expires": "2026-10-30T08:03:50.126809+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
-  "yt_live:SpaceX": "ok",
+  "yt_live:SpaceX": "fail",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
-  "yt_live:Neuralink": "ok",
+  "yt_live:Neuralink": "fail",
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
