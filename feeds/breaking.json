@@ -1,7 +1,19 @@
 {
- "updated": "2026-10-30T12:16:40.838560+00:00",
+ "updated": "2026-10-30T12:40:00.893452+00:00",
  "day_ct": "2026-10-30",
  "items": [
+  {
+   "id": "gn:CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ",
+   "co": "SpaceX",
+   "tier": "just",
+   "title": "SpaceX is turning away customers for the rocket that flew most of 2025\u2019s trips to orbit, and some are paying extra for the last seats",
+   "ts": "2026-10-30T12:38:25+00:00",
+   "ts_kind": "published",
+   "src": "Fortune via Google News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ?oc=5",
+   "video": null,
+   "expires": "2026-10-30T15:40:00.893452+00:00"
+  },
   {
    "id": "ll2:57ce0a39-d035-4f16-a418-bd6108f78199",
    "co": "SpaceX",
@@ -16,7 +28,7 @@
     "kind": "youtube",
     "id": "OVOVtaf15eY"
    },
-   "expires": "2026-10-30T15:16:40.838560+00:00"
+   "expires": "2026-10-30T15:40:00.893452+00:00"
   },
   {
    "id": "gn:CBMiogFBVV95cUxNZEowZHZ0TkFWVVgtWHVfb3E4Y1diZEJFRlVLNDBhTV9seHloNURGcE1XSUMwX1lYYXV3V1lkRGIwbGZ0dlVVWlZBU0NnLUdUaWRWM0hZc29FSktELXMyeW5oUUo1bWdKTE1tRGRVVDJyZzhhc1ZZZ2VpNjMzd1E2RkVoTTJaTnlsd09OM20tQVQ1ckFOb01HdEhxY2luZDVVTUE",
@@ -28,12 +40,12 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEowZHZ0TkFWVVgtWHVfb3E4Y1diZEJFRlVLNDBhTV9seHloNURGcE1XSUMwX1lYYXV3V1lkRGIwbGZ0dlVVWlZBU0NnLUdUaWRWM0hZc29FSktELXMyeW5oUUo1bWdKTE1tRGRVVDJyZzhhc1ZZZ2VpNjMzd1E2RkVoTTJaTnlsd09OM20tQVQ1ckFOb01HdEhxY2luZDVVTUE?oc=5",
    "video": null,
-   "expires": "2026-10-30T15:16:40.838560+00:00"
+   "expires": "2026-10-30T15:40:00.893452+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "ok",
-  "yt_live:SpaceX": "ok",
+  "yt_live:SpaceX": "fail",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
