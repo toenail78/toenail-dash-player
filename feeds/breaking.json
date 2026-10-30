@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:19:33.004456+00:00",
+ "updated": "2026-10-30T05:29:48.000077+00:00",
  "day_ct": "2026-10-30",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDhiWGhZZlpNWVkxMXlkZjdlTkF6RHVkZzhzamhFdGNZNnZQdGhCdGM3MlBJXzFyNk0wcHJoZzNuV2FmNGhKT2tBWXQ5N1dhREJ1VTNDcWJOdWFoaUdGUGRueTFabkdta0ZHZjJfbFh2d1U?oc=5",
    "video": null,
-   "expires": "2026-10-30T08:19:33.004456+00:00"
+   "expires": "2026-10-30T08:29:48.000077+00:00"
   },
   {
    "id": "ll2:57ce0a39-d035-4f16-a418-bd6108f78199",
@@ -28,16 +28,16 @@
     "kind": "youtube",
     "id": "OVOVtaf15eY"
    },
-   "expires": "2026-10-30T08:19:33.004456+00:00"
+   "expires": "2026-10-30T08:29:48.000077+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
-  "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
-  "yt_live:Tesla": "fail",
+  "yt_live:SpaceX": "fail",
+  "yt_rss:Tesla": "fail",
+  "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
-  "yt_live:Neuralink": "ok",
+  "yt_live:Neuralink": "fail",
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
