@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:16:47.988483+00:00",
+ "updated": "2026-10-30T04:26:57.571361+00:00",
  "day_ct": "2026-10-29",
  "items": [
   {
@@ -12,16 +12,16 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-10-30T07:16:47.988483+00:00"
+   "expires": "2026-10-30T07:26:57.571361+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
-  "yt_live:Tesla": "ok",
+  "yt_live:Tesla": "fail",
   "yt_rss:Neuralink": "fail",
-  "yt_live:Neuralink": "fail",
+  "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
