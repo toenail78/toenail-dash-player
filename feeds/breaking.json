@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:35:49.104260+00:00",
+ "updated": "2026-10-30T13:53:46.360415+00:00",
  "day_ct": "2026-10-30",
  "items": [
   {
@@ -7,12 +7,12 @@
    "co": "SpaceX",
    "tier": "just",
    "title": "SpaceX is turning away customers for the rocket that flew most of 2025\u2019s trips to orbit, and some are paying extra for the last seats",
-   "ts": "2026-10-30T12:38:25+00:00",
+   "ts": "2026-10-30T13:05:00+00:00",
    "ts_kind": "published",
    "src": "Fortune via Google News",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ?oc=5",
    "video": null,
-   "expires": "2026-10-30T16:35:49.104260+00:00"
+   "expires": "2026-10-30T16:53:46.360415+00:00"
   },
   {
    "id": "ll2:57ce0a39-d035-4f16-a418-bd6108f78199",
@@ -28,19 +28,19 @@
     "kind": "youtube",
     "id": "OVOVtaf15eY"
    },
-   "expires": "2026-10-30T16:35:49.104260+00:00"
+   "expires": "2026-10-30T16:53:46.360415+00:00"
   },
   {
-   "id": "gn:CBMiogFBVV95cUxNZEowZHZ0TkFWVVgtWHVfb3E4Y1diZEJFRlVLNDBhTV9seHloNURGcE1XSUMwX1lYYXV3V1lkRGIwbGZ0dlVVWlZBU0NnLUdUaWRWM0hZc29FSktELXMyeW5oUUo1bWdKTE1tRGRVVDJyZzhhc1ZZZ2VpNjMzd1E2RkVoTTJaTnlsd09OM20tQVQ1ckFOb01HdEhxY2luZDVVTUE",
+   "id": "gn:CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c",
    "co": "Tesla",
    "tier": "today",
-   "title": "Why Is Tesla (TSLA) Reworking Cybertruck Plans And Battery Rules Now?",
-   "ts": "2026-10-30T09:09:55+00:00",
+   "title": "Tesla Finally Breaks Its 13-Month Sales Losing Streak in Europe",
+   "ts": "2026-10-30T09:46:01+00:00",
    "ts_kind": "published",
-   "src": "Yahoo Finance via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEowZHZ0TkFWVVgtWHVfb3E4Y1diZEJFRlVLNDBhTV9seHloNURGcE1XSUMwX1lYYXV3V1lkRGIwbGZ0dlVVWlZBU0NnLUdUaWRWM0hZc29FSktELXMyeW5oUUo1bWdKTE1tRGRVVDJyZzhhc1ZZZ2VpNjMzd1E2RkVoTTJaTnlsd09OM20tQVQ1ckFOb01HdEhxY2luZDVVTUE?oc=5",
+   "src": "InsideEVs via Google News",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWWljUFZ3UjRxTk9ZZFZIVTZMczdoUGpkd00tb2dwS0llVGhNaUlmWTlZVFpfaUg4SXFIS2J6a2t2Q2NPVF90aWx5NEptZ0E3VWRnNi1YTmlEbEJjN3cxcWN5bTZhZGZoeDE4RzZmRDY1YkdtZ2c?oc=5",
    "video": null,
-   "expires": "2026-10-30T16:35:49.104260+00:00"
+   "expires": "2026-10-30T16:53:46.360415+00:00"
   }
  ],
  "sources": {
@@ -49,7 +49,7 @@
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
-  "yt_live:Neuralink": "fail",
+  "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
