@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:44:51.073253+00:00",
+ "updated": "2026-10-31T00:50:29.441843+00:00",
  "day_ct": "2026-10-30",
  "items": [
   {
@@ -16,7 +16,7 @@
     "kind": "youtube",
     "id": "OVOVtaf15eY"
    },
-   "expires": "2026-10-31T03:44:51.073253+00:00"
+   "expires": "2026-10-31T03:50:29.441843+00:00"
   },
   {
    "id": "gn:CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ",
@@ -28,15 +28,15 @@
    "src": "Fortune via Google News",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ?oc=5",
    "video": null,
-   "expires": "2026-10-31T03:44:51.073253+00:00"
+   "expires": "2026-10-31T03:50:29.441843+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
