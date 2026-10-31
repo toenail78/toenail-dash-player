@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:38:52.638116+00:00",
+ "updated": "2026-10-31T18:43:58.807596+00:00",
  "day_ct": "2026-10-31",
  "items": [
   {
@@ -14,11 +14,11 @@
     "kind": "youtube",
     "id": "0oaW9AydaEo"
    },
-   "expires": "2026-10-31T21:38:52.638116+00:00"
+   "expires": "2026-10-31T21:43:58.807596+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
