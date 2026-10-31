@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:41:14.977391+00:00",
+ "updated": "2026-10-31T02:46:49.343768+00:00",
  "day_ct": "2026-10-30",
  "items": [
   {
@@ -16,25 +16,25 @@
     "kind": "youtube",
     "id": "OVOVtaf15eY"
    },
-   "expires": "2026-10-31T05:41:14.977391+00:00"
+   "expires": "2026-10-31T05:46:49.343768+00:00"
   },
   {
    "id": "gn:CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ",
    "co": "SpaceX",
    "tier": "today",
-   "title": "SpaceX is turning away customers for the rocket that flew most of 2025\u2019s trips to orbit, and some are paying extra for the last seats",
+   "title": "SpaceX turns Falcon 9 customers away to focus on Starship",
    "ts": "2026-10-30T13:05:00+00:00",
    "ts_kind": "published",
    "src": "Fortune via Google News",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHY0S2FGcE1GZ1dkWkppTzZ4MDFKdmtjTzFZZGhBdFZxZVdjVlRGM0tMVHVLVWpHdjhOQ1hKb3VYeXE3U19yYTdPNzQ2RFF1QWtfX242SXhVd1RMVDdyTGk1bDFHOE9iN2Z5OG94LVVaZ3Z1OWpvWnh1bUViUXI3bWFRMDctSzBNTXlFQQ?oc=5",
    "video": null,
-   "expires": "2026-10-31T05:41:14.977391+00:00"
+   "expires": "2026-10-31T05:46:49.343768+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
