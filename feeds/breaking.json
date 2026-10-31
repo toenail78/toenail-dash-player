@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:33:46.486178+00:00",
+ "updated": "2026-10-31T18:38:52.638116+00:00",
  "day_ct": "2026-10-31",
  "items": [
   {
@@ -14,7 +14,7 @@
     "kind": "youtube",
     "id": "0oaW9AydaEo"
    },
-   "expires": "2026-10-31T21:33:46.486178+00:00"
+   "expires": "2026-10-31T21:38:52.638116+00:00"
   }
  ],
  "sources": {
@@ -28,7 +28,7 @@
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
-  "gnews:Starlink": "fail",
+  "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
