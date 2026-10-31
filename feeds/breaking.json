@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-31T15:42:30.810974+00:00",
+ "updated": "2026-10-31T15:47:35.326430+00:00",
  "day_ct": "2026-10-31",
  "items": [
   {
-   "id": "gn:CBMif0FVX3lxTE1JdGJUVDFmeHBOZmtMQ2hkN1NuZFNWS29ISm0wYVhSeXE3dlI1YUlrVkxCNlhKdm03Ri0wRjBISVA2aFYyaWdMeklUUzNIeVh1TkxXRVB0UmFtSVNhemk1dXREeVBfeDE4bmV1LVZNX2FDbnFOTm1xR0Vsa0RQbmc",
+   "id": "gn:CBMicEFVX3lxTE1JeXpqVjBkbXlnOU1PQTAzaE5zOExmMlBOcWdGSnI3bEV1UGZSX1M5X0hhZXR4RWJXM3MxaERScmNfVkpiVU91aDNnRlVUbGJuZzEzdmhVUWdDczBZOXNvdkRPbnlXMWRnMi1TSnpjUWo",
    "co": "Tesla",
    "tier": "today",
-   "title": "The Tesla Model 3\u2019s Worst Nightmare Has Arrived In China",
-   "ts": "2026-10-31T10:25:49+00:00",
+   "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+   "ts": "2026-10-31T08:58:23+00:00",
    "ts_kind": "published",
    "src": "InsideEVs via Google News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JdGJUVDFmeHBOZmtMQ2hkN1NuZFNWS29ISm0wYVhSeXE3dlI1YUlrVkxCNlhKdm03Ri0wRjBISVA2aFYyaWdMeklUUzNIeVh1TkxXRVB0UmFtSVNhemk1dXREeVBfeDE4bmV1LVZNX2FDbnFOTm1xR0Vsa0RQbmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JeXpqVjBkbXlnOU1PQTAzaE5zOExmMlBOcWdGSnI3bEV1UGZSX1M5X0hhZXR4RWJXM3MxaERScmNfVkpiVU91aDNnRlVUbGJuZzEzdmhVUWdDczBZOXNvdkRPbnlXMWRnMi1TSnpjUWo?oc=5",
    "video": null,
-   "expires": "2026-10-31T18:42:30.810974+00:00"
+   "expires": "2026-10-31T18:47:35.326430+00:00"
   }
  ],
  "sources": {
@@ -21,11 +21,11 @@
   "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
-  "yt_live:Neuralink": "ok",
+  "yt_live:Neuralink": "fail",
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
-  "gnews:SpaceX": "ok",
+  "gnews:SpaceX": "fail",
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
