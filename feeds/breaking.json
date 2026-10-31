@@ -1,7 +1,20 @@
 {
- "updated": "2026-10-31T14:12:40.280259+00:00",
+ "updated": "2026-10-31T14:18:19.293356+00:00",
  "day_ct": "2026-10-31",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMicEFVX3lxTE1JeXpqVjBkbXlnOU1PQTAzaE5zOExmMlBOcWdGSnI3bEV1UGZSX1M5X0hhZXR4RWJXM3MxaERScmNfVkpiVU91aDNnRlVUbGJuZzEzdmhVUWdDczBZOXNvdkRPbnlXMWRnMi1TSnpjUWo",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "The Xpeng L03 Aims To Take On Europe And Undercut Tesla",
+   "ts": "2026-10-31T08:58:23+00:00",
+   "ts_kind": "published",
+   "src": "InsideEVs via Google News",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JeXpqVjBkbXlnOU1PQTAzaE5zOExmMlBOcWdGSnI3bEV1UGZSX1M5X0hhZXR4RWJXM3MxaERScmNfVkpiVU91aDNnRlVUbGJuZzEzdmhVUWdDczBZOXNvdkRPbnlXMWRnMi1TSnpjUWo?oc=5",
+   "video": null,
+   "expires": "2026-10-31T17:18:19.293356+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
