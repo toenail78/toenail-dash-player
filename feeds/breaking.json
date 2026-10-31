@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T17:39:03.642480+00:00",
+ "updated": "2026-10-31T17:44:58.086493+00:00",
  "day_ct": "2026-10-31",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMWFnQUpJaFlWZF84QTFXM1dhWTlQcEd5bmVBYWY0bGpqU0E2d2pycVAtSGRhb3RrU08zTWV2bU5qbVppdGJIeHFoYzRLaXBDU0wwS0R5NDVIeWJLczNTcHdIdmUwR1I3VkNFczlDNUE?oc=5",
    "video": null,
-   "expires": "2026-10-31T20:39:03.642480+00:00"
+   "expires": "2026-10-31T20:44:58.086493+00:00"
   }
  ],
  "sources": {
@@ -29,8 +29,8 @@
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
-  "gnews:Neuralink": "ok",
-  "gnews:Boring Co": "ok",
+  "gnews:Neuralink": "fail",
+  "gnews:Boring Co": "fail",
   "x_api": "unavailable:",
   "pinned": "ok"
  }
