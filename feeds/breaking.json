@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-31T19:44:41.118718+00:00",
+ "updated": "2026-10-31T19:49:45.489434+00:00",
  "day_ct": "2026-10-31",
  "items": [
   {
    "id": "yt:0oaW9AydaEo",
    "co": "Tesla",
-   "tier": "just",
+   "tier": "today",
    "title": "Bone Voyage \ud83d\udc80",
    "ts": "2026-10-31T17:48:49+00:00",
    "src": "YouTube @Tesla",
@@ -14,7 +14,7 @@
     "kind": "youtube",
     "id": "0oaW9AydaEo"
    },
-   "expires": "2026-10-31T22:44:41.118718+00:00"
+   "expires": "2026-10-31T22:49:45.489434+00:00"
   }
  ],
  "sources": {
