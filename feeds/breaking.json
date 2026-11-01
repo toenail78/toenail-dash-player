@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-01T00:50:37.955372+00:00",
+ "updated": "2026-11-01T00:56:02.430745+00:00",
  "day_ct": "2026-10-31",
  "items": [],
  "sources": {
-  "yt_rss:SpaceX": "fail",
+  "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
@@ -16,7 +16,7 @@
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
-  "gnews:Neuralink": "ok",
+  "gnews:Neuralink": "fail",
   "gnews:Boring Co": "ok",
   "x_api": "unavailable:",
   "pinned": "ok"
