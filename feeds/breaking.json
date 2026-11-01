@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T17:39:22.263175+00:00",
+ "updated": "2026-11-01T17:49:52.802265+00:00",
  "day_ct": "2026-11-01",
  "items": [
+  {
+   "id": "gn:CBMisgFBVV95cUxPUmdOYlh5OUg0eFNrUURtQmhiLTlqMWJJN3FCdFp4YWg4YTN0RDJJZnl0NFl6RlpKSVE2cF81QW44QU1hejg3UWJwRktZYTAtd192WElmTEY5M05pUVhpNmtxVDdwY0VlTHo2c3hYZGJEMFI4YnJsLWg3MmNlQTR2OTRrZHBDSGp3b1lCal9jMlpWMERVcnBnNExfUW1BRzNlTzZmMmFXSXRLM3FmMVNWRm13",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Rivian Has An R2 Master Plan To Close The Gap With Tesla",
+   "ts": "2026-11-01T15:18:05+00:00",
+   "ts_kind": "published",
+   "src": "Forbes via Google News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmdOYlh5OUg0eFNrUURtQmhiLTlqMWJJN3FCdFp4YWg4YTN0RDJJZnl0NFl6RlpKSVE2cF81QW44QU1hejg3UWJwRktZYTAtd192WElmTEY5M05pUVhpNmtxVDdwY0VlTHo2c3hYZGJEMFI4YnJsLWg3MmNlQTR2OTRrZHBDSGp3b1lCal9jMlpWMERVcnBnNExfUW1BRzNlTzZmMmFXSXRLM3FmMVNWRm13?oc=5",
+   "video": null,
+   "expires": "2026-11-01T20:49:52.802265+00:00"
+  },
   {
    "id": "gn:CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn",
    "co": "Starlink",
@@ -12,19 +24,7 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn?oc=5",
    "video": null,
-   "expires": "2026-11-01T20:39:22.263175+00:00"
-  },
-  {
-   "id": "gn:CBMiowFBVV95cUxQVEk0d2laOU1MdVlPQ3NSS3dGa2Z5cDlWMldMNC1JOGVIenRXT0Vmc0xSMDg0bUhvV05sUENPV0RKdkpkMV9HZjB2YkdhbzhKeWxkRXFIaW9XNzdXQU1WOEk1YXBCdWJXZnhsSWlGaElWSjlMdzhPQjFYcW9kNlN0cnp6UHlLbkZFN1h5MFZ6bGdrVmZjV0dqazQwWWNMcU1aZGRv",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "Cybercab Expansion Might Change The Case For Investing In Tesla Stock (TSLA)",
-   "ts": "2026-11-01T05:16:00+00:00",
-   "ts_kind": "published",
-   "src": "Yahoo Finance via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEk0d2laOU1MdVlPQ3NSS3dGa2Z5cDlWMldMNC1JOGVIenRXT0Vmc0xSMDg0bUhvV05sUENPV0RKdkpkMV9HZjB2YkdhbzhKeWxkRXFIaW9XNzdXQU1WOEk1YXBCdWJXZnhsSWlGaElWSjlMdzhPQjFYcW9kNlN0cnp6UHlLbkZFN1h5MFZ6bGdrVmZjV0dqazQwWWNMcU1aZGRv?oc=5",
-   "video": null,
-   "expires": "2026-11-01T20:39:22.263175+00:00"
+   "expires": "2026-11-01T20:49:52.802265+00:00"
   }
  ],
  "sources": {
