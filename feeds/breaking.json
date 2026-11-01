@@ -1,26 +1,11 @@
 {
- "updated": "2026-10-31T23:56:53.524577+00:00",
+ "updated": "2026-11-01T00:01:58.373182+00:00",
  "day_ct": "2026-10-31",
- "items": [
-  {
-   "id": "yt:0oaW9AydaEo",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "Bone Voyage \ud83d\udc80",
-   "ts": "2026-10-31T17:48:49+00:00",
-   "src": "YouTube @Tesla",
-   "url": "https://www.youtube.com/watch?v=0oaW9AydaEo",
-   "video": {
-    "kind": "youtube",
-    "id": "0oaW9AydaEo"
-   },
-   "expires": "2026-11-01T02:56:53.524577+00:00"
-  }
- ],
+ "items": [],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
