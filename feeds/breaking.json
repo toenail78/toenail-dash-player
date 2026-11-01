@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-01T17:02:16.096373+00:00",
+ "updated": "2026-11-01T17:07:20.749636+00:00",
  "day_ct": "2026-11-01",
  "items": [
+  {
+   "id": "gn:CBMisgFBVV95cUxPUmdOYlh5OUg0eFNrUURtQmhiLTlqMWJJN3FCdFp4YWg4YTN0RDJJZnl0NFl6RlpKSVE2cF81QW44QU1hejg3UWJwRktZYTAtd192WElmTEY5M05pUVhpNmtxVDdwY0VlTHo2c3hYZGJEMFI4YnJsLWg3MmNlQTR2OTRrZHBDSGp3b1lCal9jMlpWMERVcnBnNExfUW1BRzNlTzZmMmFXSXRLM3FmMVNWRm13",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Rivian Has An R2 Master Plan To Close The Gap With Tesla",
+   "ts": "2026-11-01T16:31:31+00:00",
+   "ts_kind": "published",
+   "src": "Forbes via Google News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmdOYlh5OUg0eFNrUURtQmhiLTlqMWJJN3FCdFp4YWg4YTN0RDJJZnl0NFl6RlpKSVE2cF81QW44QU1hejg3UWJwRktZYTAtd192WElmTEY5M05pUVhpNmtxVDdwY0VlTHo2c3hYZGJEMFI4YnJsLWg3MmNlQTR2OTRrZHBDSGp3b1lCal9jMlpWMERVcnBnNExfUW1BRzNlTzZmMmFXSXRLM3FmMVNWRm13?oc=5",
+   "video": null,
+   "expires": "2026-11-01T20:07:20.749636+00:00"
+  },
   {
    "id": "gn:CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn",
    "co": "Starlink",
@@ -12,19 +24,7 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn?oc=5",
    "video": null,
-   "expires": "2026-11-01T20:02:16.096373+00:00"
-  },
-  {
-   "id": "gn:CBMibkFVX3lxTE55QWFadW5ERDhEVGlMYWFaS0w2Um4xZ2RURHE2TGN3WDVwdldKSVJHZndxZWF0WVd5WUVBOWtqdF96VG5BeTJHUnhXcmhSbTN3Y0JRakF4X25kQWc5djRQMC1aSUd1dTNOT3N5ekRn",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "Critics Slam Tesla's Gamification Of FSD As Driver Hits 25,000-Mile Streak",
-   "ts": "2026-11-01T05:18:19+00:00",
-   "ts_kind": "published",
-   "src": "InsideEVs via Google News",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55QWFadW5ERDhEVGlMYWFaS0w2Um4xZ2RURHE2TGN3WDVwdldKSVJHZndxZWF0WVd5WUVBOWtqdF96VG5BeTJHUnhXcmhSbTN3Y0JRakF4X25kQWc5djRQMC1aSUd1dTNOT3N5ekRn?oc=5",
-   "video": null,
-   "expires": "2026-11-01T20:02:16.096373+00:00"
+   "expires": "2026-11-01T20:07:20.749636+00:00"
   }
  ],
  "sources": {
