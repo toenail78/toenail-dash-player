@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:05:27.942107+00:00",
+ "updated": "2026-11-02T12:15:53.744740+00:00",
  "day_ct": "2026-11-02",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Financial Times via Google News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
    "video": null,
-   "expires": "2026-11-02T15:05:27.942107+00:00"
+   "expires": "2026-11-02T15:15:53.744740+00:00"
   }
  ],
  "sources": {
@@ -25,7 +25,7 @@
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
-  "gnews:SpaceX": "fail",
+  "gnews:SpaceX": "ok",
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
