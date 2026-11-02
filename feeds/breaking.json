@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:35:07.204673+00:00",
+ "updated": "2026-11-02T02:40:32.493868+00:00",
  "day_ct": "2026-11-01",
  "items": [
   {
@@ -12,17 +12,17 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn?oc=5",
    "video": null,
-   "expires": "2026-11-02T05:35:07.204673+00:00"
+   "expires": "2026-11-02T05:40:32.493868+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "ok",
+  "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
