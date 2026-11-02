@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:42:00.896054+00:00",
+ "updated": "2026-11-02T11:55:14.463938+00:00",
  "day_ct": "2026-11-02",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Financial Times via Google News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
    "video": null,
-   "expires": "2026-11-02T14:42:00.896054+00:00"
+   "expires": "2026-11-02T14:55:14.463938+00:00"
   }
  ],
  "sources": {
@@ -30,7 +30,7 @@
   "gnews:xAI": "ok",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
-  "gnews:Boring Co": "ok",
+  "gnews:Boring Co": "fail",
   "x_api": "unavailable:",
   "pinned": "ok"
  }
