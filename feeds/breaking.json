@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-02T18:40:55.337472+00:00",
+ "updated": "2026-11-02T18:45:58.204578+00:00",
  "day_ct": "2026-11-02",
  "items": [
+  {
+   "id": "gn:CBMigAFBVV95cUxPeTh2MEhNMmFpbi14T2NOZjNnUTJCcGZlR1pJVktURXg1SGVSbXZMZkNmMjJKRmlqbW94aklpd1pIVnJsOWpackx3NHExTUtHMGUyTVA1ejc1OVI4UnZrQkZQa0RGU2NnT1ZCTllUYU1sTXlqT0M2VzZfRGJOR1lmOA",
+   "co": "Tesla",
+   "tier": "just",
+   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
+   "ts": "2026-11-02T18:40:00+00:00",
+   "ts_kind": "published",
+   "src": "InsideEVs via Google News",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTh2MEhNMmFpbi14T2NOZjNnUTJCcGZlR1pJVktURXg1SGVSbXZMZkNmMjJKRmlqbW94aklpd1pIVnJsOWpackx3NHExTUtHMGUyTVA1ejc1OVI4UnZrQkZQa0RGU2NnT1ZCTllUYU1sTXlqT0M2VzZfRGJOR1lmOA?oc=5",
+   "video": null,
+   "expires": "2026-11-02T21:45:58.204578+00:00"
+  },
   {
    "id": "gn:CBMisAFBVV95cUxOc2ZmYzRZSTZSa1ZWYXBGT0Flb2g1alVjZGpxNEl0Tkd3YXlWTk95bG1DSTlFNXVSNi1QZkw1VjN6TVJXbnRWWFVPN2ZpVDBjNDlmVFFDRVRRM3htWUhmSkt4SE5mZ1NxX1JUWGUxdFpMX2FxN3ZiM0NrQnF1enZBVG1MbWxVVmVuR3ZqMmFMaEtZOGdqVWZTU3o2Ml9qT2lGczFQUjNramlQZ2loQ01UUQ",
    "co": "SpaceX",
@@ -12,19 +24,7 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2ZmYzRZSTZSa1ZWYXBGT0Flb2g1alVjZGpxNEl0Tkd3YXlWTk95bG1DSTlFNXVSNi1QZkw1VjN6TVJXbnRWWFVPN2ZpVDBjNDlmVFFDRVRRM3htWUhmSkt4SE5mZ1NxX1JUWGUxdFpMX2FxN3ZiM0NrQnF1enZBVG1MbWxVVmVuR3ZqMmFMaEtZOGdqVWZTU3o2Ml9qT2lGczFQUjNramlQZ2loQ01UUQ?oc=5",
    "video": null,
-   "expires": "2026-11-02T21:40:55.337472+00:00"
-  },
-  {
-   "id": "gn:CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J",
-   "co": "Tesla",
-   "tier": "just",
-   "title": "Tesla's monthly registrations rise across Europe as Chinese rivals gain ground",
-   "ts": "2026-11-02T18:02:50+00:00",
-   "ts_kind": "published",
-   "src": "Reuters via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J?oc=5",
-   "video": null,
-   "expires": "2026-11-02T21:40:55.337472+00:00"
+   "expires": "2026-11-02T21:45:58.204578+00:00"
   },
   {
    "id": "gn:CBMilwFBVV95cUxQdDdlY2tjMk9oaTdoYWIxQnVDYzFkOUtXNFVMcE16NmNySFV4Nm1FZng3ZDZoTngzOC11azZzYTN2SVN0RWpqWUpRbFFDbDJ3UkZDZ1k3dGJJOF84UHhYYkhqQktkdmkteHpLNXFIZ1NTMkVUOV8ydEJxNlV4N3VvcjhMUzdWS1RmYl9uc3ZJeVNtM2ZvcFBB",
@@ -36,7 +36,7 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDdlY2tjMk9oaTdoYWIxQnVDYzFkOUtXNFVMcE16NmNySFV4Nm1FZng3ZDZoTngzOC11azZzYTN2SVN0RWpqWUpRbFFDbDJ3UkZDZ1k3dGJJOF84UHhYYkhqQktkdmkteHpLNXFIZ1NTMkVUOV8ydEJxNlV4N3VvcjhMUzdWS1RmYl9uc3ZJeVNtM2ZvcFBB?oc=5",
    "video": null,
-   "expires": "2026-11-02T21:40:55.337472+00:00"
+   "expires": "2026-11-02T21:45:58.204578+00:00"
   },
   {
    "id": "gn:CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4",
@@ -48,13 +48,13 @@
    "src": "Financial Times via Google News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
    "video": null,
-   "expires": "2026-11-02T21:40:55.337472+00:00"
+   "expires": "2026-11-02T21:45:58.204578+00:00"
   }
  ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "fail",
+  "yt_rss:Tesla": "ok",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
