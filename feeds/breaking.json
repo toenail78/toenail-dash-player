@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-02T08:01:34.156120+00:00",
+ "updated": "2026-11-02T11:36:57.504796+00:00",
  "day_ct": "2026-11-02",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4",
+   "co": "Starlink",
+   "tier": "just",
+   "title": "Canada backs a rival to Starlink but a $2bn debt battle threatens its plans",
+   "ts": "2026-11-02T11:00:09+00:00",
+   "ts_kind": "published",
+   "src": "Financial Times via Google News",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
+   "video": null,
+   "expires": "2026-11-02T14:36:57.504796+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
