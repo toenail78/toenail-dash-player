@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-02T07:29:27.181970+00:00",
+ "updated": "2026-11-02T07:34:30.401729+00:00",
  "day_ct": "2026-11-02",
  "items": [],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
