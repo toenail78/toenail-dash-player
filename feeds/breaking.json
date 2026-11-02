@@ -1,20 +1,7 @@
 {
- "updated": "2026-11-02T05:54:48.054602+00:00",
- "day_ct": "2026-11-01",
- "items": [
-  {
-   "id": "gn:CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn",
-   "co": "Starlink",
-   "tier": "today",
-   "title": "How To Check If Your Upcoming Flight Has Starlink Wi-Fi",
-   "ts": "2026-11-01T14:30:00+00:00",
-   "ts_kind": "published",
-   "src": "Engadget via Google News",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUFVhbWRfR3pZYzBUQ2ZJdUZ1WEFjZ21CRDN3RzctRDZaaVZSMld5Wm5BY3VDR3JWSVdMRE02akZjWDJHa0xaQnFkN01yQ1cwRHBBbE9uYy1qandVeWNqTHhtbWxobVg2X1A0TG1oWnFkaFdObTBDNENKbl9YSnJyQVpn?oc=5",
-   "video": null,
-   "expires": "2026-11-02T08:54:48.054602+00:00"
-  }
- ],
+ "updated": "2026-11-02T06:04:56.230058+00:00",
+ "day_ct": "2026-11-02",
+ "items": [],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
