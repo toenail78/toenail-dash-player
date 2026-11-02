@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:20:28.968009+00:00",
+ "updated": "2026-11-02T06:25:51.739357+00:00",
  "day_ct": "2026-11-02",
  "items": [],
  "sources": {
@@ -17,7 +17,7 @@
   "gnews:xAI": "ok",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
-  "gnews:Boring Co": "ok",
+  "gnews:Boring Co": "fail",
   "x_api": "unavailable:",
   "pinned": "ok"
  }
