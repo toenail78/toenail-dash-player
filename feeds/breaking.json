@@ -1,18 +1,30 @@
 {
- "updated": "2026-11-02T14:22:14.233807+00:00",
+ "updated": "2026-11-02T16:55:49.753681+00:00",
  "day_ct": "2026-11-02",
  "items": [
+  {
+   "id": "gn:CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Tesla's monthly registrations surge in Northern Europe even as Chinese competition rises",
+   "ts": "2026-11-02T11:18:53+00:00",
+   "ts_kind": "published",
+   "src": "Reuters via Google News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGxMVkRlMy14clJIR0dtYmlpSGRyajRjOWJqQzVkamhudWhBSjVETHliSS1HMEJGc21oWWVrNzNJWW1sREpZZXJReWRXWVB5ek5IZFJiM1NPUUN3SVZaNF9tanI0UHFTaGhJcE91cUg0RVlzSHVrX2JYUmo1QWFEZXkybmJZYVNZYWxhWlFnWEN6TDBVU1dBN0NPWlB0WjUxcU5J?oc=5",
+   "video": null,
+   "expires": "2026-11-02T19:55:49.753681+00:00"
+  },
   {
    "id": "gn:CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4",
    "co": "Starlink",
    "tier": "today",
-   "title": "Canada backs a rival to Starlink but a $2bn debt battle threatens its plans",
+   "title": "Wall Street battle threatens Canada\u2019s plan for rival to Musk\u2019s Starlink",
    "ts": "2026-11-02T11:00:09+00:00",
    "ts_kind": "published",
    "src": "Financial Times via Google News",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
    "video": null,
-   "expires": "2026-11-02T17:22:14.233807+00:00"
+   "expires": "2026-11-02T19:55:49.753681+00:00"
   }
  ],
  "sources": {
