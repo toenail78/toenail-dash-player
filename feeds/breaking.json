@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T22:59:26.293958+00:00",
+ "updated": "2026-11-03T23:04:29.148800+00:00",
  "day_ct": "2026-11-03",
  "items": [
   {
@@ -14,7 +14,19 @@
     "kind": "youtube",
     "id": "23hF7xwWauE"
    },
-   "expires": "2026-11-04T01:59:26.293958+00:00"
+   "expires": "2026-11-04T02:04:29.148800+00:00"
+  },
+  {
+   "id": "gn:CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw",
+   "co": "Tesla",
+   "tier": "today",
+   "title": "Here Are All Of The Crazy Tricks The Tesla Roadster Just Did",
+   "ts": "2026-11-03T12:57:15+00:00",
+   "ts_kind": "published",
+   "src": "InsideEVs via Google News",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
+   "video": null,
+   "expires": "2026-11-04T02:04:29.148800+00:00"
   }
  ],
  "sources": {
@@ -26,10 +38,10 @@
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
-  "gnews:Tesla": "fail",
+  "gnews:Tesla": "ok",
   "gnews:SpaceX": "fail",
-  "gnews:Starlink": "fail",
-  "gnews:xAI": "ok",
+  "gnews:Starlink": "ok",
+  "gnews:xAI": "fail",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
   "gnews:Boring Co": "ok",
