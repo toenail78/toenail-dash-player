@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T02:11:29.032331+00:00",
+ "updated": "2026-11-03T02:21:31.901195+00:00",
  "day_ct": "2026-11-02",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Engadget via Google News",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2ZmYzRZSTZSa1ZWYXBGT0Flb2g1alVjZGpxNEl0Tkd3YXlWTk95bG1DSTlFNXVSNi1QZkw1VjN6TVJXbnRWWFVPN2ZpVDBjNDlmVFFDRVRRM3htWUhmSkt4SE5mZ1NxX1JUWGUxdFpMX2FxN3ZiM0NrQnF1enZBVG1MbWxVVmVuR3ZqMmFMaEtZOGdqVWZTU3o2Ml9qT2lGczFQUjNramlQZ2loQ01UUQ?oc=5",
    "video": null,
-   "expires": "2026-11-03T05:11:29.032331+00:00"
+   "expires": "2026-11-03T05:21:31.901195+00:00"
   },
   {
    "id": "gn:CBMilwFBVV95cUxQdDdlY2tjMk9oaTdoYWIxQnVDYzFkOUtXNFVMcE16NmNySFV4Nm1FZng3ZDZoTngzOC11azZzYTN2SVN0RWpqWUpRbFFDbDJ3UkZDZ1k3dGJJOF84UHhYYkhqQktkdmkteHpLNXFIZ1NTMkVUOV8ydEJxNlV4N3VvcjhMUzdWS1RmYl9uc3ZJeVNtM2ZvcFBB",
@@ -24,19 +24,7 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDdlY2tjMk9oaTdoYWIxQnVDYzFkOUtXNFVMcE16NmNySFV4Nm1FZng3ZDZoTngzOC11azZzYTN2SVN0RWpqWUpRbFFDbDJ3UkZDZ1k3dGJJOF84UHhYYkhqQktkdmkteHpLNXFIZ1NTMkVUOV8ydEJxNlV4N3VvcjhMUzdWS1RmYl9uc3ZJeVNtM2ZvcFBB?oc=5",
    "video": null,
-   "expires": "2026-11-03T05:11:29.032331+00:00"
-  },
-  {
-   "id": "gn:CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4",
-   "co": "Starlink",
-   "tier": "today",
-   "title": "Wall Street battle threatens Canada\u2019s plan for rival to Musk\u2019s Starlink",
-   "ts": "2026-11-02T11:00:09+00:00",
-   "ts_kind": "published",
-   "src": "Financial Times via Google News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkFvR1h3THU1X3hRa2pueXk3aFBneURDNnhPdHZCQ0ZIY25CZGtmVGV5QmZVZEg1Q0tjQ1ltXzNpLWg4bnZfcmFxekNkeUo1NnFpRUxqX3lJUFktS29fZ3lacktNdW82S09ZdVBZRm9vazJBMXFZdzI4RXRrU0cyU2VFaG4?oc=5",
-   "video": null,
-   "expires": "2026-11-03T05:11:29.032331+00:00"
+   "expires": "2026-11-03T05:21:31.901195+00:00"
   }
  ],
  "sources": {
@@ -46,7 +34,7 @@
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
-  "ll2": "ok",
+  "ll2": "stale",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
   "gnews:SpaceX": "ok",
