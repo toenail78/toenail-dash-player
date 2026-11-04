@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-04T21:47:20.665329+00:00",
+ "updated": "2026-11-04T21:52:25.127781+00:00",
  "day_ct": "2026-11-04",
- "items": [],
+ "items": [
+  {
+   "id": "gn:CBMipwFBVV95cUxQZVJGb2RvQzVvNVB4M1NyNTBhTU13Nk9vQ1hselF4RVk2a1FYS1NDVGVZMnVuQmFubndReWdmYVZLQmJWcWgxTkZkbEpTQVdJMHlSN0VkSkp0ZnVvUFJJTTQzLW9OczVDeEZxMTk1cWo2UjY2MmRmSFlmRmd2Nk0xdG9waGN0QTVEZE84ZmNOSnNMZ3FTMldmQjJ5TlNaWHRsamZJNWNRRQ",
+   "co": "SpaceX",
+   "tier": "today",
+   "title": "Sinch Announces Joining the Inaugural SpaceX Super Intelligence Network as Marketplace Partner",
+   "ts": "2026-11-04T07:09:00+00:00",
+   "ts_kind": "published",
+   "src": "Yahoo Finance via Google News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZVJGb2RvQzVvNVB4M1NyNTBhTU13Nk9vQ1hselF4RVk2a1FYS1NDVGVZMnVuQmFubndReWdmYVZLQmJWcWgxTkZkbEpTQVdJMHlSN0VkSkp0ZnVvUFJJTTQzLW9OczVDeEZxMTk1cWo2UjY2MmRmSFlmRmd2Nk0xdG9waGN0QTVEZE84ZmNOSnNMZ3FTMldmQjJ5TlNaWHRsamZJNWNRRQ?oc=5",
+   "video": null,
+   "expires": "2026-11-05T00:52:25.127781+00:00"
+  }
+ ],
  "sources": {
   "yt_rss:SpaceX": "ok",
   "yt_live:SpaceX": "ok",
@@ -12,12 +25,12 @@
   "ll2": "ok",
   "xai_news": "ok",
   "gnews:Tesla": "ok",
-  "gnews:SpaceX": "fail",
+  "gnews:SpaceX": "ok",
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
   "gnews:Neuralink": "ok",
-  "gnews:Boring Co": "ok",
+  "gnews:Boring Co": "fail",
   "x_api": "unavailable:",
   "pinned": "ok"
  }
