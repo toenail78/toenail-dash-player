@@ -1,21 +1,7 @@
 {
- "updated": "2026-11-04T00:17:55.575158+00:00",
+ "updated": "2026-11-04T00:32:41.823426+00:00",
  "day_ct": "2026-11-03",
  "items": [
-  {
-   "id": "yt:23hF7xwWauE",
-   "co": "Tesla",
-   "tier": "today",
-   "title": "POV you\u2019re a flying car",
-   "ts": "2026-11-03T17:51:47+00:00",
-   "src": "YouTube @Tesla",
-   "url": "https://www.youtube.com/watch?v=23hF7xwWauE",
-   "video": {
-    "kind": "youtube",
-    "id": "23hF7xwWauE"
-   },
-   "expires": "2026-11-04T03:17:55.575158+00:00"
-  },
   {
    "id": "gn:CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw",
    "co": "Tesla",
@@ -26,7 +12,7 @@
    "src": "InsideEVs via Google News",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTXdRanUyb3pvRGRhd0NCalRYMXZqZ0xKRkdBd0Y5ZnVtTnJ2cFFtRzlqSjd0c1Y4dmRpS2xveXZpc0F3czJyOEw3UEVLSF9VZjR5OFJmTVVjUDNPYkxERUdmd05SLUVQS2tvR01MenRNLWJPXzl3bw?oc=5",
    "video": null,
-   "expires": "2026-11-04T03:17:55.575158+00:00"
+   "expires": "2026-11-04T03:32:41.823426+00:00"
   },
   {
    "id": "gn:CBMijwFBVV95cUxPZmJud0lLTUREekxza1A5dmpuZ2sxV2ltd0V4Z3FKTnQwYlF0cXNUdmdfODhkaWVQUzk5TUMzejhWRDRSZW1XbmtNTVMwcGpMLXJ3YTZoazlvdUxiVXRRSXZVV0IwSEdaZExSZnk3Zno3VUtpbUduWTh0T2R5bkhJS1lQV0MwN3NSUUk1Zm4yUQ",
@@ -38,13 +24,13 @@
    "src": "Yahoo Finance via Google News",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZmJud0lLTUREekxza1A5dmpuZ2sxV2ltd0V4Z3FKTnQwYlF0cXNUdmdfODhkaWVQUzk5TUMzejhWRDRSZW1XbmtNTVMwcGpMLXJ3YTZoazlvdUxiVXRRSXZVV0IwSEdaZExSZnk3Zno3VUtpbUduWTh0T2R5bkhJS1lQV0MwN3NSUUk1Zm4yUQ?oc=5",
    "video": null,
-   "expires": "2026-11-04T03:17:55.575158+00:00"
+   "expires": "2026-11-04T03:32:41.823426+00:00"
   }
  ],
  "sources": {
-  "yt_rss:SpaceX": "ok",
+  "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
-  "yt_rss:Tesla": "ok",
+  "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
   "yt_rss:Neuralink": "fail",
   "yt_live:Neuralink": "ok",
