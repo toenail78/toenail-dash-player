@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:09:18.937027+00:00",
+ "updated": "2026-11-05T04:20:54.149828+00:00",
  "day_ct": "2026-11-04",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTg5ejB4QndnLWx0X2thOHMtdjlDQklXRERtZjZaV21ObmxhRUp2TnZqbm9YR1dfOGVDRkdvZi1rOXhKMWJWMFl5cWpBZG9QUG83QzV2R0psN0hZUHVTVE9JWXNaaUhOdzd1ZGZMczdZUVQ2YXpZQm9pQkNqNXpWRjVwNmdoSzNReEROMEkyNUlhaG9IOUZONmFqS1dwTzFSRWplNWpB?oc=5",
    "video": null,
-   "expires": "2026-11-05T07:09:18.937027+00:00"
+   "expires": "2026-11-05T07:20:54.149828+00:00"
   }
  ],
  "sources": {
@@ -20,7 +20,7 @@
   "yt_live:SpaceX": "ok",
   "yt_rss:Tesla": "fail",
   "yt_live:Tesla": "ok",
-  "yt_rss:Neuralink": "fail",
+  "yt_rss:Neuralink": "ok",
   "yt_live:Neuralink": "ok",
   "ll2": "ok",
   "xai_news": "ok",
