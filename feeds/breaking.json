@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:24:46.674128+00:00",
+ "updated": "2026-11-05T05:32:06.298372+00:00",
  "day_ct": "2026-11-04",
  "items": [
   {
@@ -12,7 +12,7 @@
    "src": "Teslarati via Google News",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTg5ejB4QndnLWx0X2thOHMtdjlDQklXRERtZjZaV21ObmxhRUp2TnZqbm9YR1dfOGVDRkdvZi1rOXhKMWJWMFl5cWpBZG9QUG83QzV2R0psN0hZUHVTVE9JWXNaaUhOdzd1ZGZMczdZUVQ2YXpZQm9pQkNqNXpWRjVwNmdoSzNReEROMEkyNUlhaG9IOUZONmFqS1dwTzFSRWplNWpB?oc=5",
    "video": null,
-   "expires": "2026-11-05T08:24:46.674128+00:00"
+   "expires": "2026-11-05T08:32:06.298372+00:00"
   }
  ],
  "sources": {
@@ -29,7 +29,7 @@
   "gnews:Starlink": "ok",
   "gnews:xAI": "ok",
   "gnews:X": "ok",
-  "gnews:Neuralink": "ok",
+  "gnews:Neuralink": "fail",
   "gnews:Boring Co": "ok",
   "x_api": "unavailable:",
   "pinned": "ok"
