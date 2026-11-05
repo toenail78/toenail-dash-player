@@ -1,20 +1,7 @@
 {
- "updated": "2026-11-05T00:10:59.756877+00:00",
+ "updated": "2026-11-05T00:16:03.879302+00:00",
  "day_ct": "2026-11-04",
- "items": [
-  {
-   "id": "gn:CBMipgFBVV95cUxOSTg5ejB4QndnLWx0X2thOHMtdjlDQklXRERtZjZaV21ObmxhRUp2TnZqbm9YR1dfOGVDRkdvZi1rOXhKMWJWMFl5cWpBZG9QUG83QzV2R0psN0hZUHVTVE9JWXNaaUhOdzd1ZGZMczdZUVQ2YXpZQm9pQkNqNXpWRjVwNmdoSzNReEROMEkyNUlhaG9IOUZONmFqS1dwTzFSRWplNWpB",
-   "co": "xAI",
-   "tier": "today",
-   "title": "Elon Musk\u2019s Grok Bot is picking up the phone now, and the first calls are wild",
-   "ts": "2026-11-04T07:02:29+00:00",
-   "ts_kind": "published",
-   "src": "Teslarati via Google News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTg5ejB4QndnLWx0X2thOHMtdjlDQklXRERtZjZaV21ObmxhRUp2TnZqbm9YR1dfOGVDRkdvZi1rOXhKMWJWMFl5cWpBZG9QUG83QzV2R0psN0hZUHVTVE9JWXNaaUhOdzd1ZGZMczdZUVQ2YXpZQm9pQkNqNXpWRjVwNmdoSzNReEROMEkyNUlhaG9IOUZONmFqS1dwTzFSRWplNWpB?oc=5",
-   "video": null,
-   "expires": "2026-11-05T03:10:59.756877+00:00"
-  }
- ],
+ "items": [],
  "sources": {
   "yt_rss:SpaceX": "fail",
   "yt_live:SpaceX": "ok",
