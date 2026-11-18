@@ -1,0 +1,341 @@
+{
+ "contract": "video-picks/1",
+ "updated": 1794962176569,
+ "pages": [
+  {
+   "key": "h2c",
+   "title": "H2C",
+   "sub": "Bambu Lab official",
+   "at": 1794962176569,
+   "items": [
+    {
+     "id": "MFbb1V4sego",
+     "title": "H2C Creations: Uncompromising Multi-Material in Action",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": null,
+     "ago": "10mo ago",
+     "pin": true,
+     "thumb": "feeds/vp-thumbs/MFbb1V4sego.jpg"
+    },
+    {
+     "id": "rluJj3NEdQA",
+     "title": "Meet Vortek: Our Answer to Zero Purge Waste Multi-Material Printing",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": null,
+     "ago": "1y ago",
+     "pin": true,
+     "thumb": "feeds/vp-thumbs/rluJj3NEdQA.jpg"
+    },
+    {
+     "id": "7FfuVTRjFqI",
+     "title": "Swap Hotends and switch materials with less purging.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": null,
+     "ago": "10mo ago",
+     "pin": true,
+     "thumb": "feeds/vp-thumbs/7FfuVTRjFqI.jpg"
+    },
+    {
+     "id": "4ZEKw97zEUk",
+     "title": "Chat with Dr. Tao about the H2C at Formnext",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": null,
+     "ago": "Streamed 11mo ago",
+     "pin": true,
+     "thumb": "feeds/vp-thumbs/4ZEKw97zEUk.jpg"
+    },
+    {
+     "id": "Tjq1kFO3khQ",
+     "title": "POV: your filament shelf is about to get a lot emptier.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1794571236000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/Tjq1kFO3khQ.jpg"
+    },
+    {
+     "id": "x_C76SP9Z04",
+     "title": "Multi-color printing used to test your patience. Now, it's simpler and faster.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1794398429000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/x_C76SP9Z04.jpg"
+    },
+    {
+     "id": "oV0OSXFWMXY",
+     "title": "Guess how many tool changes it took to print this multi-color chameleon?",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1794315615000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/oV0OSXFWMXY.jpg"
+    },
+    {
+     "id": "AkN2ix9Gs2I",
+     "title": "\"Too soft to print.\" That used to be true. Until H3C changed the game.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1794229204000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/AkN2ix9Gs2I.jpg"
+    },
+    {
+     "id": "fURdbxoDANQ",
+     "title": "Fast tool changes. Silent moves.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1793970010000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/fURdbxoDANQ.jpg"
+    },
+    {
+     "id": "Gvk4o4pgkUM",
+     "title": "Swaptek™ switches materials in 6 seconds, with only 0.038g purged.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1793883632000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/Gvk4o4pgkUM.jpg"
+    },
+    {
+     "id": "sCf5bdVLFUg",
+     "title": "Bambu Lab H3C. Three ways to start.",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1793715045000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/sCf5bdVLFUg.jpg"
+    },
+    {
+     "id": "reLXvBtyxRQ",
+     "title": "Bambu Lab H3C: 9-Tool Flagship | Launch Video",
+     "src": "yt",
+     "channel": "Bambu Lab",
+     "t": 1793714439000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/reLXvBtyxRQ.jpg"
+    }
+   ]
+  },
+  {
+   "key": "neuralink",
+   "title": "Neuralink",
+   "sub": "Neuralink official",
+   "at": 1794962176569,
+   "items": [
+    {
+     "id": "emi5O7LeiyU",
+     "title": "An Engineering Sprint For Speech Restoration | Neuralink",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1793299999000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/emi5O7LeiyU.jpg"
+    },
+    {
+     "id": "yd9T8gHIPis",
+     "title": "a beautiful surprise",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1789750865000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/yd9T8gHIPis.jpg"
+    },
+    {
+     "id": "_j806JHhCRo",
+     "title": "Speaking With The Mind | Neuralink",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1789750848000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/_j806JHhCRo.jpg"
+    },
+    {
+     "id": "R03-DWvWmAY",
+     "title": "Neuralnauts | Audrey",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1787781346000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/R03-DWvWmAY.jpg"
+    },
+    {
+     "id": "V06QXVSWxDs",
+     "title": "Controlling A Wheelchair With Your Mind",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1784906721000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/V06QXVSWxDs.jpg"
+    },
+    {
+     "id": "78m32VSOMBk",
+     "title": "Telepathic Wheelchair Control | Neuralink",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1784842336000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/78m32VSOMBk.jpg"
+    },
+    {
+     "id": "F8p2MamNBgE",
+     "title": "Our First Transdural Procedure | Neuralink",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1782844691000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/F8p2MamNBgE.jpg"
+    },
+    {
+     "id": "niQD2LM1pcc",
+     "title": "Playing Video Games With Her Mind",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1779486583000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/niQD2LM1pcc.jpg"
+    },
+    {
+     "id": "MYKEycYqRpk",
+     "title": "Signing My Name With My Mind",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1779314828000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/MYKEycYqRpk.jpg"
+    },
+    {
+     "id": "5hYg3rUfLiQ",
+     "title": "Creating Art With The Mind | Neuralink",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1778868900000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/5hYg3rUfLiQ.jpg"
+    },
+    {
+     "id": "_nejC_SaAbw",
+     "title": "Making Needles with Lasers",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1778275153000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/_nejC_SaAbw.jpg"
+    },
+    {
+     "id": "93yWGUiYFEk",
+     "title": "Accessing New Brain Regions with Surgical Robotics",
+     "src": "yt",
+     "channel": "Neuralink",
+     "t": 1778100640000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/93yWGUiYFEk.jpg"
+    }
+   ]
+  },
+  {
+   "key": "nvidia",
+   "title": "Nvidia",
+   "sub": "NVIDIA official · GTC · robots · Jensen",
+   "at": 1794962176569,
+   "items": [
+    {
+     "id": "LRSJXRsKmLQ",
+     "title": "NVIDIA GTC Berlin 2026 Event Highlights: AI in Action Across Europe",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1793392040000,
+     "ago": null,
+     "pin": true,
+     "thumb": "feeds/vp-thumbs/LRSJXRsKmLQ.jpg"
+    },
+    {
+     "id": "E3Hy-WRJbXE",
+     "title": "NVIDIA cuPhoton Brings Real-Time Black Hole Science to GPUs",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1794853952000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/E3Hy-WRJbXE.jpg"
+    },
+    {
+     "id": "ha-gDrDm8Es",
+     "title": "From AI Factories to Intelligent Cities",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1794678506000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/ha-gDrDm8Es.jpg"
+    },
+    {
+     "id": "5ibgnmypP8I",
+     "title": "Autonomous Vehicle Safety: 5 Things to Know",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1794607205000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/5ibgnmypP8I.jpg"
+    },
+    {
+     "id": "IOcODanTpN0",
+     "title": "Meet GR00T 2, our most advanced, open System One model for robotics research.",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1794598599000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/IOcODanTpN0.jpg"
+    },
+    {
+     "id": "OZ5KXB6kHUg",
+     "title": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1794326919000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/OZ5KXB6kHUg.jpg"
+    },
+    {
+     "id": "8K08Ywgduno",
+     "title": "The robots were told there’d be candy. 🍬🎃",
+     "src": "yt",
+     "channel": "NVIDIA",
+     "t": 1793469847000,
+     "ago": null,
+     "pin": false,
+     "thumb": "feeds/vp-thumbs/8K08Ywgduno.jpg"
+    }
+   ]
+  }
+ ],
+ "errors": []
+}
